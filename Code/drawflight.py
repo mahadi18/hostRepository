@@ -1,3 +1,9 @@
+######################Description#######################3
+# Author: Bishnu Sarker, DMKM, UPMC, UPB Email: bishnukuet@gmail.com
+# This program populates the graph from the given raw text. and Save in binary format.
+# this also finds Out degree each node and save fro future use.
+############################
+
 import pandas
 import scipy as sci
 import numpy as np

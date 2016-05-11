@@ -12,7 +12,7 @@ import pickle
 import os
 
 #print os.curdir
-file_root=os.path.join("C:\Users\Acer PC\PycharmProjects\OpenFlightRanking","Data")
+file_root=os.path.join("C:\OpenFlightRanking","Data")
 routes_data=open(os.path.join(file_root,"routes.txt"))
 airports_data=open(os.path.join(file_root,"airports.txt"))
 ##### Read the data file.########

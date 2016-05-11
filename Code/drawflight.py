@@ -9,7 +9,7 @@ import scipy as sci
 import numpy as np
 import matplotlib.pyplot as plt
 import pickle
-import os
+import os 
 
 #print os.curdir
 file_root=os.path.join("C:\OpenFlightRanking","Data")

@@ -1,0 +1,5743 @@
+1 Denver Intl
+2 Chicago Ohare Intl
+3 Los Angeles Intl
+4 Hartsfield Jackson Atlanta Intl
+5 Sydney Intl
+6 Heathrow
+7 Changi Intl
+8 Capital Intl
+9 Charles De Gaulle
+10 Dallas Fort Worth Intl
+11 Frankfurt Main
+12 Domododevo
+13 John F Kennedy Intl
+14 Schiphol
+15 Lester B Pearson Intl
+16 Dubai Intl
+17 Incheon Intl
+18 Ataturk
+19 Eldorado Intl
+20 Pudong
+21 Barcelona
+22 Licenciado Benito Juarez Intl
+23 Hong Kong Intl
+24 Brisbane Intl
+25 Suvarnabhumi Intl
+26 Miami Intl
+27 Ninoy Aquino Intl
+28 Minneapolis St Paul Intl
+29 George Bush Intercontinental
+30 Indira Gandhi Intl
+31 Charlotte Douglas Intl
+32 Aeroparque Jorge Newbery
+33 Fiumicino
+34 San Francisco Intl
+35 Kuala Lumpur Intl
+36 Seattle Tacoma Intl
+37 Gatwick
+38 Pulkovo
+39 Barajas
+40 Franz Josef Strauss
+41 Johannesburg Intl
+42 Narita Intl
+43 Schwechat
+44 Mc Carran Intl
+45 Guarulhos Gov Andre Franco Montouro
+46 Baiyun Intl
+47 Vancouver Intl
+48 Chhatrapati Shivaji Intl
+49 Soekarno Hatta Intl
+50 Tokyo Intl
+51 Ted Stevens Anchorage Intl
+52 Auckland Intl
+53 Son Sant Joan
+54 Melbourne Intl
+55 Detroit Metro Wayne Co
+56 Manchester
+57 Newark Liberty Intl
+58 Brussels Natl
+59 Wujiaba
+60 Shuangliu
+61 Washington Dulles Intl
+62 Dusseldorf
+63 Jorge Chavez Intl
+64 Philadelphia Intl
+65 Orlando Intl
+66 Phoenix Sky Harbor Intl
+67 Abu Dhabi Intl
+68 Kastrup
+69 General Edward Lawrence Logan Intl
+70 Pierre Elliott Trudeau Intl
+71 Taoyuan Intl
+72 Gardermoen
+73 Sheremetyevo
+74 Bethel
+75 Orly
+76 Zurich
+77 Arlanda
+78 Fort Lauderdale Hollywood Intl
+79 Helsinki Vantaa
+80 Xianyang
+81 King Abdulaziz Intl
+82 Presidente Juscelino Kubitschek
+83 Mehrabad Intl
+84 Jomo Kenyatta International
+85 Lisboa
+86 Eleftherios Venizelos Intl
+87 Faa\\'a International
+88 Malpensa
+89 Bole Intl
+90 Jiangbei
+91 King Khaled Intl
+92 Port Moresby Jacksons Intl
+93 Honolulu Intl
+94 Perth Intl
+95 Salt Lake City Intl
+96 Cairo Intl
+97 Honiara International
+98 Xiaoshan
+99 Dublin
+100 Diwopu
+101 Baoan Intl
+102 Fairbanks Intl
+103 Tegel
+104 Calgary Intl
+105 Doha Intl
+106 Arturo Merino Benitez Intl
+107 Cancun Intl
+108 Hongqiao Intl
+109 Don Muang Intl
+110 Portland Intl
+111 Simon Bolivar Intl
+112 Viracopos
+113 Lambert St Louis Intl
+114 Sabiha Gokcen
+115 Malaga
+116 Galeao Antonio Carlos Jobim
+117 Gaoqi
+118 Chicago Midway Intl
+119 La Guardia
+120 Baltimore Washington Intl
+121 Stansted
+122 Kansai
+123 Juneau Intl
+124 Ronald Reagan Washington Natl
+125 Netaji Subhash Chandra Bose Intl
+126 Liuting
+127 Tocumen Intl
+128 Cairns Intl
+129 Tansonnhat Intl
+130 Tianhe
+131 Houari Boumediene
+132 Huanghua
+133 Tampa Intl
+134 Alicante
+135 Geneve Cointrin
+136 Port Vila Bauerfield
+137 Ruzyne
+138 Birmingham
+139 Bali Ngurah Rai
+140 Cote D\\'Azur
+141 Lukou
+142 Ibiza
+143 Juan Santamaria Intl
+144 Eduardo Gomes Intl
+145 Mashhad
+146 Sioux Lookout
+147 Venezia Tessera
+148 Nadi Intl
+149 Hasanuddin
+150 Vnukovo
+151 Saint Exupery
+152 Deputado Luis Eduardo Magalhaes
+153 Edmonton Intl
+154 Gran Canaria
+155 Glasgow
+156 Stuttgart
+157 Mohammed V Intl
+158 San Diego Intl
+159 Provence
+160 Edinburgh
+161 Adelaide Intl
+162 Hamburg
+163 Bangalore
+164 Okecie
+165 Nome
+166 Tribhuvan Intl
+167 Ben Gurion
+168 Mactan Cebu Intl
+169 Tancredo Neves Intl
+170 Yellowknife
+171 Marcos A Gelabert Intl
+172 Nikos Kazantzakis
+173 Luis Munoz Marin Intl
+174 Luanda 4 De Fevereiro
+175 Noibai Intl
+176 Chennai Intl
+177 Magenta
+178 Ministro Pistarini
+179 Queen Alia Intl
+180 Lynden Pindling Intl
+181 Jose Marti Intl
+182 Henri Coanda
+183 Xinzheng
+184 Ralph Wien Mem
+185 Antalya
+186 Kuwait Intl
+187 Cleveland Hopkins Intl
+188 Zhoushuizi
+189 Koln Bonn
+190 New Chitose
+191 Boryspil Intl
+192 Seeb Intl
+193 Darwin Intl
+194 Koltsovo
+195 Rhodes Diagoras
+196 Wellington Intl
+197 Shenyang Taoxian International Airport
+198 Taiping
+199 Jinnah Intl
+200 Bergamo Orio Al Serio
+201 Juanda
+202 Tenerife Sur
+203 Tolmachevo
+204 Salgado Filho
+205 Mariscal Sucre Intl
+206 Afonso Pena
+207 Riga Intl
+208 Orlando Sanford Intl
+209 Yuzhny
+210 Fukuoka
+211 Murtala Muhammed
+212 Don Miguel Hidalgo Y Costilla Intl
+213 Congonhas
+214 Hyderabad
+215 Almaty
+216 Longdongbao
+217 Binhai
+218 Jinan
+219 Christchurch Intl
+220 Ketchikan Intl
+221 Luton
+222 Bristol
+223 Kansas City Intl
+224 Bandaranaike Intl Colombo
+225 Porto
+226 Iqaluit
+227 Winnipeg Intl
+228 Nashville Intl
+229 Marechal Rondon
+230 Chubu Centrair Intl
+231 Flesland
+232 Yangon Intl
+233 Sochi
+234 Kotoka Intl
+235 Nnamdi Azikiwe Intl
+236 Luqa
+237 Zia Intl
+238 Carthage
+239 William P Hobby
+240 Faro
+241 Nottingham East Midlands
+242 Wuxu
+243 Cape Town Intl
+244 Baita Airport
+245 Lanzarote
+246 King Fahd Intl
+247 Val De Cans Intl
+248 Rankin Inlet
+249 Wusu
+250 Newcastle
+251 Changle
+252 Khartoum
+253 Metropolitan Oakland Intl
+254 Ferihegy
+255 Ivato
+256 Larnaca
+257 Ioannis Kapodistrias Intl
+258 Kota Kinabalu Intl
+259 Keflavik International Airport
+260 Aniak Airport
+261 Bahrain Intl
+262 Ottawa Macdonald Cartier Intl
+263 General Mariano Escobedo Intl
+264 Makedonia
+265 Shiraz Shahid Dastghaib Intl
+266 Mandalay Intl
+267 Girona
+268 El Alto Intl
+269 Gimhae Intl
+270 Austin Bergstrom Intl
+271 Catania Fontanarossa
+272 Polonia
+273 Jeju Intl
+274 Esenboga
+275 Tanna island
+276 Jose Joaquin De Olmedo Intl
+277 Nairobi Wilson
+278 Astana Intl
+279 EuroAirport Basel-Mulhouse-Freiburg
+280 Tripoli Intl
+281 Subang-Sultan Abdul Aziz Shah Intl
+282 Sepinggan
+283 Miri
+284 Kahului
+285 Memphis Intl
+286 Brussels South
+287 Sept Iles
+288 El Salvador Intl
+289 Blagnac
+290 City
+291 King Salmon
+292 Chinggis Khaan Intl
+293 Guararapes Gilberto Freyre Intl
+294 Naha
+295 Pisa
+296 Raleigh Durham Intl
+297 Osaka Intl
+298 Leopold Sedar Senghor Intl
+299 San Antonio Intl
+300 Rafic Hariri Intl
+301 Wabush
+302 Santos Dumont
+303 Chaklala
+304 Phuket Intl
+305 Reykjavik
+306 Menorca
+307 Quebec Jean Lesage Intl
+308 Nausori Intl
+309 Princess Juliana Intl
+310 Meilan
+311 Lusaka Intl
+312 Split
+313 Louis Armstrong New Orleans Intl
+314 Valencia
+315 Phoenix International
+316 Rarotonga Intl
+317 Liangjiang
+318 Norman Y Mineta San Jose Intl
+319 Changbei Intl
+320 Beograd
+321 Bologna
+322 Halifax Intl
+323 Hannover
+324 Heydar Aliyev
+325 Schonefeld
+326 Lanzhou Airport
+327 Kos
+328 Cincinnati Northern Kentucky Intl
+329 Thunder Bay
+330 Dubrovnik
+331 Goose Bay
+332 Fuerteventura
+333 Macau Intl
+334 Nantes Atlantique
+335 General Mitchell Intl
+336 Leeds Bradford
+337 Capodichino
+338 Langnes
+339 Punta Cana Intl
+340 Sacramento Intl
+341 Abidjan Felix Houphouet Boigny Intl
+342 Olbia Costa Smeralda
+343 Pittsburgh Intl
+344 Emelyanovo
+345 Santo Pekoa International Airport
+346 Penang Intl
+347 Vaernes
+348 Douala
+349 Sanaa Intl
+350 Inuvik Mike Zubko
+351 Phoenix-Mesa Gateway
+352 Adnan Menderes
+353 Novy
+354 Alfonso Bonilla Aragon Intl
+355 Townsville
+356 Sir Seewoosagur Ramgoolam Intl
+357 Cochin
+358 Nuuk
+359 Tobias Bolanos International Airport
+360 Unalaska
+361 Pinto Martins Intl
+362 Bilbao
+363 Albuquerque International Sunport
+364 Indianapolis Intl
+365 Luxembourg
+366 General Abelardo L Rodriguez Intl
+367 Viru Viru Intl
+368 Port Columbus Intl
+369 Allama Iqbal Intl
+370 Wenzhou Yongqiang Airport
+371 Bodo
+372 Hato
+373 Kuujjuaq
+374 Reina Beatrix Intl
+375 Menara
+376 Southwest Florida Intl
+377 Luogang
+378 Minsk 2
+379 Elmas
+380 Liverpool
+381 Merignac
+382 Gimpo
+383 Lokpriya Gopinath Bordoloi International Airport
+384 Yakutsk
+385 Tallinn
+386 Palermo
+387 Changchun
+388 Chiang Mai Intl
+389 Beijing Nanyuan Airport
+390 Ilulissat
+391 Mwalimu Julius K Nyerere Intl
+392 Knevichi
+393 Billings Logan International Airport
+394 Kuching Intl
+395 Linate
+396 Gold Coast
+397 Sofia
+398 Yinchuan
+399 Red Lake Airport
+400 Eindhoven
+401 Sentani
+402 Male Intl
+403 Kirkwall
+404 Burgas
+405 Zhuliany Intl
+406 Dallas Love Fld
+407 Dalaman
+408 Shijiazhuang Daguocun International Airport
+409 Esfahan Shahid Beheshti Intl
+410 Vityazevo
+411 Vilnius Intl
+412 John Wayne Arpt Orange Co
+413 Lishe
+414 Guam Intl
+415 Los Cabos Intl
+416 Imam Khomeini
+417 Borg El Arab Intl
+418 Kigali Intl
+419 Frankfurt Hahn
+420 Tille
+421 Niederrhein
+422 Hang Nadim
+423 Myrtle Beach Intl
+424 Olaya Herrera
+425 Mount Isa
+426 Sola
+427 Kaohsiung Intl
+428 Madeira
+429 Santa Genoveva
+430 Entebbe Intl
+431 Pampulha Carlos Drummond De Andrade
+432 Ahwaz
+433 Cadjehoun
+434 Las Americas Intl
+435 V C Bird Intl
+436 Balice
+437 Eros Airport
+438 Maputo
+439 Harare Intl
+440 Xining Caojiabu Airport
+441 Ahmedabad
+442 Jersey
+443 Unalakleet Airport
+444 Hercilio Luz
+445 Sondre Stromfjord
+446 Wattay Intl
+447 Governador Jorge Teixeira De Oliveira
+448 Jose Maria Cordova
+449 Laishan
+450 Edward G Pitka Sr
+451 Irkutsk
+452 Campo Dell Oro
+453 Manas
+454 Dyce
+455 Pafos Intl
+456 Zvartnots
+457 Ouagadougou
+458 Ciampino
+459 Bandar Abbass Intl
+460 Sevilla
+461 Providenciales
+462 Lijiang Airport
+463 Bari
+464 Sangster Intl
+465 Kodiak
+466 Tokua Airport
+467 Southampton
+468 Munda Airport
+469 Narsarsuaq
+470 Prince Mohammad Bin Abdulaziz
+471 Santarem
+472 La Aurora
+473 St Petersburg Clearwater Intl
+474 Sam Ratulangi
+475 Mount Hagen
+476 Landvetter
+477 Waskaganish Airport
+478 Fort Yukon
+479 Lech Walesa
+480 Jacksonville Intl
+481 Belfast Intl
+482 Temindung
+483 Grantley Adams Intl
+484 Talagi
+485 Durban Intl
+486 St Denis Gillot
+487 Pattimura
+488 Wiley Post Will Rogers Mem
+489 Goiabeiras
+490 Es Senia
+491 Will Rogers World
+492 Souda
+493 Louisville International Airport
+494 Toncontin Intl
+495 Cambridge Bay
+496 Nadzab
+497 Nurnberg
+498 Campo Grande
+499 El Plumerillo
+500 St Johns Intl
+501 Norman Wells
+502 Kazan
+503 Piarco
+504 Khrabrovo
+505 Ponta Delgada
+506 Sharm El Sheikh Intl
+507 Marudi
+508 Sungshan
+509 Kurumoch
+510 Thiruvananthapuram Intl
+511 Licenciado Gustavo Diaz Ordaz Intl
+512 Neuenland
+513 Zagreb
+514 Rangiroa
+515 Bromma
+516 Tte Av Jorge Henrich Arauz
+517 Siem Reap
+518 Danang Intl
+519 Wuxi Airport
+520 Torp
+521 Bateen
+522 Peshawar Intl
+523 Skavsta
+524 Pashkovskiy
+525 Hammerfest Airport
+526 Bradley Intl
+527 Leite Lopes
+528 Kilimanjaro Intl
+529 Lifou
+530 Khomutovo
+531 Bodrum - Milas
+532 La Tontouta
+533 Sharjah Intl
+534 Cardiff
+535 Adi Sutjipto
+536 Dongshan
+537 Moss
+538 Leon M Ba
+539 General Ignacio P Garcia Intl
+540 Benina
+541 Owen Roberts Intl
+542 Jefman
+543 Firenze
+544 Santa Maria Airport
+545 Alfredo Vasquez Cobo
+546 Pune
+547 Phnom Penh Intl
+548 Broome
+549 Philip S W Goldson Intl
+550 Ufa
+551 Albany Intl
+552 Pristina
+553 Maya Maya
+554 Tenerife Norte
+555 Ambouli International Airport
+556 Ambrosio L V Taravella
+557 Billund
+558 Toamasina
+559 Palm Beach Intl
+560 Jijiga Airport
+561 Del Caribe Intl Gen Santiago Marino
+562 Calicut
+563 Wewak Intl
+564 Kalskag Airport
+565 Trapani Birgi
+566 Deadhorse
+567 La Mesa Intl
+568 Le Raizet
+569 San Pedro
+570 Big Trout Lake Airport
+571 Santorini
+572 Zhuhai Airport
+573 Nagasaki
+574 Cyril E King
+575 Yaounde Nsimalen
+576 Boeing Fld King Co Intl
+577 Francisco Bangoy International
+578 Kuujjuarapik Airport
+579 Bocas Del Toro Intl
+580 Sultan Syarif Kasim Ii
+581 McGrath Airport
+582 St Marys Airport
+583 Buffalo Niagara Intl
+584 Eppley Afld
+585 Reno Tahoe Intl
+586 Visby
+587 Grayling Airport
+588 Osh
+589 Cork
+590 Enfidha - Zine El Abidine Ben Ali International Airport
+591 Villafranca
+592 Lesquin
+593 Resolute Bay
+594 Marechal Cunha Machado Intl
+595 Norsup Airport
+596 Zamboanga Intl
+597 Teniente Alejandro Velasco Astete Intl
+598 Lajes
+599 Attawapiskat Airport
+600 Aktau
+601 Cerro Moreno Intl
+602 Kona Intl At Keahole
+603 Augusto Severo
+604 Caye Caulker Airport
+605 Rostov Na Donu
+606 Wales Airport
+607 Santa Cruz
+608 Russian Mission Airport
+609 Queenstown
+610 Williams Harbour Airport
+611 Roschino
+612 Tirana Rinas
+613 Kish Island
+614 Zahedan Intl
+615 Birmingham Intl
+616 City Centre
+617 Theodore Francis Green State
+618 Norfolk Intl
+619 Puvirnituq Airport
+620 Pierre Regional Airport
+621 Gurney Airport
+622 Dortmund
+623 Alghero
+624 Ndjili Intl
+625 Sendai
+626 Hamilton Airport
+627 Treviso
+628 Roche Harbor Seaplane Base
+629 Tanana Airport
+630 Tbilisi
+631 Dionysios Solomos
+632 Sandy Lake Airport
+633 Entzheim
+634 Santiago
+635 Salzburg
+636 El Carano
+637 Makkovik Airport
+638 Le Lamentin
+639 Torino
+640 Madang
+641 Qaqortoq Heliport
+642 Maraba
+643 El Tepual Intl
+644 Freetown Lungi
+645 Simferopol Intl
+646 Reus
+647 Kabul Intl
+648 Leipzig Halle
+649 Windhoek Hosea Kutako International Airport 
+650 Churchill
+651 General Manuel Carlos Piar
+652 Boise Air Terminal
+653 Gerald R Ford Intl
+654 Shageluk Airport
+655 Zumbi Dos Palmares
+656 Tefe
+657 Iloilo
+658 Goloson Intl
+659 Maningrida Airport
+660 Ruby Airport
+661 Pyrzowice
+662 Carrasco Intl
+663 Mineralnyye Vody
+664 Quanzhou Airport
+665 Christiansted Harbor Seaplane Base
+666 Boulder City Municipal Airport
+667 Grand Canyon West Airport
+668 Scappoose Industrial Airpark
+669 Muskrat Dam Airport
+670 Qaanaaq Airport
+671 Jorge Wilsterman
+672 Arviat
+673 Richmond Intl
+674 Kelowna
+675 Poretta
+676 Hurghada Intl
+677 Husein Sastranegara
+678 Gnassingbe Eyadema Intl
+679 Tulsa Intl
+680 Chisinau Intl
+681 Ljubljana
+682 Silvio Pettirossi Intl
+683 Jaipur
+684 Anvik Airport
+685 Tabriz Intl
+686 Lamezia Terme
+687 Ondjiva Pereira Airport
+688 Aden Intl
+689 Wai Sha Airport
+690 Ching Chuang Kang
+691 Exeter
+692 El Tari
+693 Lihue
+694 Syamsudin Noor
+695 Cunnamulla Airport
+696 Brunei Intl
+697 Achmad Yani
+698 Kashechewan Airport
+699 Chevery Airport
+700 Postville Airport
+701 Greenville-Spartanburg International
+702 Rodriguez Ballon
+703 Canberra
+704 Tucson Intl
+705 Daniel Oduber Quiros Intl
+706 Zadar
+707 Varna
+708 Inezgane
+709 Samui
+710 Strachowice
+711 Bern Belp
+712 Devi Ahilyabai Holkar
+713 Ordos Ejin Horo
+714 Kongiganak Airport
+715 Bearskin Lake Airport
+716 Kugluktuk
+717 Wapekeka Airport
+718 Kenmore Air Harbor Seaplane Base
+719 Sturup
+720 Dushanbe
+721 Culiacan Intl
+722 Pula
+723 Longreach Airport
+724 Datadawai Airport
+725 Mikonos
+726 Greater Rochester Intl
+727 Gustavo Rojas Pinilla
+728 Santa Maria
+729 Kulusuk
+730 Syktyvkar
+731 Ontario Intl
+732 Sultan Ismail
+733 Capitan Oriel Lea Plaza
+734 Goa
+735 St. Lewis (Fox Harbour) Airport
+736 Westchester Co
+737 Myeik
+738 Heho
+739 Charleston Afb Intl
+740 Dzaoudzi Pamandzi
+741 Regional De Maringa Silvio Name Junior
+742 James M Cox Dayton Intl
+743 Diego Aracena Intl
+744 Nuku Hiva
+745 Hiva Oa-Atuona Airport
+746 Mont Joli
+747 Licenciado Adolfo Lopez Mateos Intl
+748 Toussaint Louverture Intl
+749 Zanzibar
+750 Banjul Intl
+751 Ten Cel Av Cesar Bombonato
+752 Podgorica
+753 Kwigillingok Airport
+754 Pohnpei Intl
+755 Bucholz Aaf
+756 Pikangikum Airport
+757 Anaktuvuk Pass Airport
+758 Stebbins Airport
+759 Bora Bora
+760 Juana Azurduy De Padilla
+761 Victoria Inner Harbour Airport
+762 Alta
+763 Berbera
+764 Airport
+765 Balandino
+766 Craig Cove Airport
+767 Guernsey
+768 Fresno Yosemite Intl
+769 Gjoa Haven
+770 Zarzis
+771 Salluit Airport
+772 Craig Seaplane Base
+773 Shannon
+774 Nampula
+775 Fort Mcmurray
+776 Mc Ghee Tyson
+777 Presidente Peron
+778 Ouvea
+779 Tiga Airport
+780 Sola Airport
+781 Mota Lava Airport
+782 Ernest A Love Fld
+783 Launceston
+784 Des Moines Intl
+785 Quinhagak Airport
+786 Sud Corse
+787 Igloolik Airport
+788 Senou
+789 La Chinita Intl
+790 Rasht
+791 Varanasi
+792 Rotterdam
+793 Melbourne Essendon
+794 Vanguardia
+795 Ngorangora Airport
+796 Bettles
+797 Adams Fld
+798 Gustavus Airport
+799 Kangiqsujuaq - Wakeham Bay Airport
+800 Kangirsuk Airport
+801 Natashquan
+802 Friday Harbor Seaplane Base
+803 Omsk
+804 Mornington Island Airport
+805 Bob Hope
+806 Regina Intl
+807 Pangnirtung
+808 Lucknow
+809 St Augustin Airport
+810 Ivujivik Airport
+811 Changzhou
+812 Frank Pais Intl
+813 Brevig Mission Airport
+814 Norman Manley Intl
+815 Katima Mulilo Airport
+816 Sitka Rocky Gutierrez
+817 Adana
+818 Elim Airport
+819 Kununurra
+820 St Anthony
+821 Shaktoolik Airport
+822 Saint Catherine
+823 Hollis Seaplane Base
+824 Cataratas Intl
+825 Srinagar
+826 Alice Springs
+827 Moosonee
+828 Raiatea
+829 Birdsville Airport
+830 Summer Beaver Airport
+831 Joacaba Airport
+832 Managua Intl
+833 Ulukhaktok Holman
+834 Tamanrasset
+835 Chefornak Airport
+836 Seychelles Intl
+837 Salta
+838 Wunnumin Lake Airport
+839 Manchester Regional Airport
+840 Tabatinga
+841 Suavanao Airport
+842 Londrina
+843 Casale
+844 Holy Cross Airport
+845 M R Stefanik
+846 Flin Flon
+847 Qaarsut Airport
+848 Taloyoak
+849 Charleville
+850 Gaua Island Airport
+851 Deer Lake
+852 Ouargla
+853 Charlotte County-Punta Gorda Airport
+854 Chisasibi Airport
+855 Rundu
+856 Ondangwa Airport
+857 Koyuk Alfred Adams Airport
+858 Whale Cove Airport
+859 Point Hope Airport
+860 Kobuk Airport
+861 Windorah Airport
+862 Webequie Airport
+863 Girua Airport
+864 Fort Albany Airport
+865 Mehamn
+866 Kefallinia
+867 Emmonak Airport
+868 Traian Vuia
+869 Lawica
+870 Inukjuak Airport
+871 Carlos Ibanez Del Campo Intl
+872 Chesterfield Inlet Airport
+873 El Paso Intl
+874 Kipnuk Airport
+875 Round Lake (Weagamow Lake) Airport
+876 Mombasa Moi Intl
+877 Daru Airport
+878 Newtok Airport
+879 Sir Seretse Khama Intl
+880 Sheldon Point Airport
+881 Upernavik Airport
+882 Prestwick
+883 Umiujaq Airport
+884 Comodoro Rivadavia
+885 Puerto Princesa
+886 Timmins
+887 Point Salines Intl
+888 Aden Adde International Airport
+889 Port Harcourt Intl
+890 Long Beach
+891 Doomadgee Airport
+892 Save
+893 Lauro Kurtz
+894 Lombok International Airport
+895 Quaqtaq Airport
+896 Jerez
+897 Weihai Airport
+898 Bedourie Airport
+899 Alakanuk Airport
+900 Chapeco
+901 Ambler Airport
+902 Saskatoon J G Diefenbaker Intl
+903 Erechim Airport
+904 Harrisburg Intl
+905 Ua Pou Airport
+906 Ua Huka Airport
+907 Havre Saint-Pierre Airport
+908 Toowoomba
+909 Clyde River
+910 Vishakhapatnam
+911 Amilcar Cabral Intl
+912 Cagayan De Oro
+913 Tete Chingodzi
+914 Belfast City
+915 Akron Canton Regional Airport
+916 Torres Airstrip
+917 El Loa
+918 Nizhny Novgorod
+919 Shungnak Airport
+920 Bournemouth
+921 Carriel Sur Intl
+922 Syracuse Hancock Intl
+923 Prince George
+924 Mediterranee
+925 Akulivik Airport
+926 LM Clayton Airport
+927 Beira
+928 Deering Airport
+929 Robert Curtis Memorial Airport
+930 Bob Baker Memorial Airport
+931 Buckland Airport
+932 Koumac
+933 Sultan Mahmud Badaruddin Ii
+934 Skopje
+935 Newcastle Airport
+936 Tununak Airport
+937 Malabo
+938 Nunapitchuk Airport
+939 Odesa Intl
+940 General Heriberto Jara Intl
+941 Diosdado Macapagal International
+942 Kasabonika Airport
+943 Kotlik Airport
+944 Golovin Airport
+945 Rafael Nunez
+946 H Hasan Aroeboesman
+947 Jinghong
+948 Murcia San Javier
+949 St George Airport
+950 Niigata
+951 Haines Airport
+952 Skagway Airport
+953 Mary's Harbour Airport
+954 Cherepovets Airport
+955 Baden Airpark
+956 Mahlon Sweet Fld
+957 Huslia Airport
+958 Lansdowne House Airport
+959 Allgau
+960 Mangalore
+961 Scammon Bay Airport
+962 Maroantsetra
+963 Ndola
+964 Zhangxiao
+965 Aeroporto de Porto Seguro
+966 Hoonah Airport
+967 Santo Angelo
+968 Graz
+969 Wichita Mid Continent
+970 Kimbe Airport
+971 Chah Bahar
+972 White Mountain Airport
+973 Diori Hamani
+974 Sudbury
+975 Surgut
+976 Senador Petronio Portella
+977 Malindi Airport
+978 Melville Hall
+979 Spokane Intl
+980 Juan Manuel Galvez Intl
+981 Raipur
+982 Page Municipal Airport
+983 St Hubert
+984 General Jose Antonio Anzoategui Intl
+985 Sleetmute Airport
+986 Toksook Bay Airport
+987 Bujumbura Intl
+988 Dayong Airport
+989 Gambell Airport
+990 Savoonga Airport
+991 Tivat
+992 NW Arkansas Regional
+993 Pointe Noire
+994 Asmara Intl
+995 Friday Harbor Airport
+996 Orcas Island Airport
+997 Baker Lake
+998 Rurutu
+999 Tubuai
+1000 Aktio
+1001 Lonorore Airport
+1002 C P A Carlos Rovirosa Intl
+1003 Dane Co Rgnl Truax Fld
+1004 Chadron Municipal Airport
+1005 Hiroshima
+1006 Tuluksak Airport
+1007 Alykel
+1008 Baotou Airport
+1009 Rendani
+1010 Sege Airport
+1011 Saiss
+1012 Conakry
+1013 Makale
+1014 Hall Beach
+1015 Lourdes De Blanc Sablon Airport
+1016 Yazd Shahid Sadooghi
+1017 Kalibo
+1018 Atka Airport
+1019 Nikolski Air Station
+1020 Akutan Seaplane Base
+1021 Huahine
+1022 Riyan
+1023 Thompson
+1024 Inverness
+1025 Evenes
+1026 San Carlos De Bariloche
+1027 Schefferville
+1028 Mackay
+1029 Carajas Airport
+1030 Camp Mabry Austin City
+1031 Cataratas Del Iguazu
+1032 Aalborg
+1033 La Tabatière Airport
+1034 Erbil Intl
+1035 Nantucket Mem
+1036 Shahid Ashrafi Esfahani
+1037 Piedmont Triad
+1038 General R Fierro Villalobos Intl
+1039 Hobart
+1040 Berlevag
+1041 Kaimana
+1042 Linz
+1043 Juba
+1044 Thyna
+1045 Rimini
+1046 Ilheus
+1047 Thorne Bay Seaplane Base
+1048 PlÃ¡cido de Castro
+1049 Bagan Intl
+1050 Dryden Rgnl
+1051 Tachileik
+1052 Ishigaki
+1053 Nanyuki Civil Airport
+1054 Mara Serena Airport
+1055 Samburu South Airport
+1056 Quilpie Airport
+1057 Presidente Castro Pinto
+1058 Uru Harbour Airport
+1059 Genova Sestri
+1060 Senadora Eunice Micheles Airport
+1061 Plan De Guadalupe Intl
+1062 Langkawi Intl
+1063 Monrovia Roberts Intl
+1064 Bhubaneshwar
+1065 Kosrae
+1066 Liberal Muni
+1067 Ercan International Airport
+1068 Kasigluk Airport
+1069 Araracuara Airport
+1070 Gallatin Field
+1071 Wemindji Airport
+1072 Leknes Airport
+1073 Blue Grass
+1074 Cheyenne Rgnl Jerry Olson Fld
+1075 Momote Airport
+1076 Marsh Harbour
+1077 Neerlerit Inaat Airport
+1078 Port Elizabeth Intl
+1079 Kaltag Airport
+1080 Nulato Airport
+1081 Ibn Batouta
+1082 Uléi Airport
+1083 Yelizovo
+1084 Novyi Urengoy
+1085 St. Michael Airport
+1086 Abadan
+1087 Mohamed Boudiaf Intl
+1088 Rio Gallegos
+1089 Bagdogra
+1090 Tête-à-la-Baleine Airport
+1091 Maun
+1092 St Mawgan
+1093 Dawei Airport
+1094 Hooper Bay Airport
+1095 Chevak Airport
+1096 Kagoshima
+1097 La Chorrera Airport
+1098 Municipal
+1099 Bolshoye Savino
+1100 Puerto Jimenez Airport
+1101 Fairmont Hot Springs
+1102 Minangkabau
+1103 Pilot Station Airport
+1104 Komatsu
+1105 La Managua
+1106 Rosario
+1107 Eastmain River Airport
+1108 Lhasa-Gonggar
+1109 Roumaniere
+1110 Supadio
+1111 Jammu
+1112 Kobe
+1113 Winton Airport
+1114 Ushuaia Malvinas Argentinas
+1115 Kashi
+1116 Jackson Evers Intl
+1117 Lockhart River Airport
+1118 Aupaluk Airport
+1119 Sambava
+1120 El Aroui Airport
+1121 Naryan-Mar
+1122 Papa Westray Airport
+1123 Bailian Airport
+1124 Bellingham Intl
+1125 Xuzhou Guanyin Airport
+1126 Pond Inlet
+1127 Kaunas Intl
+1128 Shishmaref Airport
+1129 Faleolo Intl
+1130 La Florida
+1131 Tres De Mayo
+1132 Mountain Village Airport
+1133 Myitkyina
+1134 Port Hedland Intl
+1135 Achutupo Airport
+1136 Sinop Airport
+1137 Jaqué Airport
+1138 Garachine Airport
+1139 Sachs Harbour
+1140 Rouyn Noranda
+1141 Keewaywin
+1142 Quad City Intl
+1143 Cedar Rapids
+1144 Isle Of Man
+1145 Chapais Airport
+1146 Hector International Airport
+1147 Coronel Francisco Secada Vignetta Intl
+1148 Martha\\'s Vineyard
+1149 Prince Said Ibrahim
+1150 Bushehr
+1151 Burketown Airport
+1152 Lokichoggio Airport
+1153 Sibu
+1154 Coimbatore
+1155 Peawanuck Airport
+1156 Shah Amanat Intl
+1157 Flinders Island Airport
+1158 Sao Gabriel da Cachoeira Airport
+1159 Asturias
+1160 Nanortalik Heliport
+1161 Arturo Michelena Intl
+1162 Sioux Falls
+1163 Richmond
+1164 Tikehau
+1165 Bellona
+1166 Rennell/Tingoa Airport
+1167 Licenciado Manuel Crescencio Rejon Int
+1168 Fort Smith
+1169 Patna
+1170 Longana Airport
+1171 Quetta
+1172 Palm Springs Intl
+1173 Miyazaki
+1174 Wallis
+1175 Ashgabat
+1176 Abha
+1177 Port Hope Simpson Airport
+1178 Dawson Community Airport
+1179 Santander
+1180 Guipavas
+1181 Ernesto Cortissoz
+1182 Val D Or
+1183 Cluj Napoca
+1184 Deer Lake Airport
+1185 Hoybuktmoen
+1186 Peoria Regional
+1187 Terrance B Lettsome Intl
+1188 Victoria Intl
+1189 Abraham Gonzalez Intl
+1190 Luang Phabang Intl
+1191 North Spirit Lake Airport
+1192 Kjevik
+1193 Portland Airport
+1194 Portland Intl Jetport
+1195 Repulse Bay
+1196 Yichang Airport
+1197 Rosario Seaplane Base
+1198 Vilhelmina
+1199 Pemba
+1200 Rogue Valley Intl Medford
+1201 Ulawa Airport
+1202 Santa Ana Airport
+1203 Misratah Airport
+1204 Iles De La Madeleine
+1205 JAGS McCartney International Airport
+1206 Takaroa
+1207 Fua Amotu Intl
+1208 Palmerston North
+1209 Lycksele
+1210 Kjaerstad
+1211 Pickle Lake
+1212 Springfield Branson Natl
+1213 Moro Airport
+1214 Stokka
+1215 Kamuzu Intl
+1216 South Bend Rgnl
+1217 Lalibella
+1218 Boulia Airport
+1219 Francisco C Ada Saipan Intl
+1220 Arctic Bay Airport
+1221 Dresden
+1222 Fort Wayne
+1223 Taree Airport
+1224 Murmansk
+1225 Enrique Malek Intl
+1226 Khudzhand Airport
+1227 Dire Dawa Intl
+1228 Christmas Island
+1229 St. George Airport
+1230 St Paul Island
+1231 Bhopal
+1232 General Rafael Buelna Intl
+1233 Fonte Boa Airport
+1234 Teller Airport
+1235 Tuntutuliak Airport
+1236 Kwethluk Airport
+1237 Eek Airport
+1238 Nightmute Airport
+1239 Duong Dong Airport
+1240 Fort Good Hope
+1241 ISLES OF SCILLY
+1242 Sultan Ismail Petra
+1243 Bermuda Intl
+1244 Kalamata
+1245 Arrachart
+1246 Venetie Airport
+1247 Arctic Village Airport
+1248 Imphal
+1249 Thule Air Base
+1250 La Grande Riviere
+1251 La Rochelle-Ile de Re
+1252 Hopedale Airport
+1253 City Of Colorado Springs Muni
+1254 Chacalluta
+1255 Tulita
+1256 Atyrau
+1257 Narsaq Heliport
+1258 Johan A Pengel Intl
+1259 Agartala
+1260 Dunedin
+1261 Key West Intl
+1262 Atqasuk Edward Burnell Sr Memorial Airport
+1263 Wainwright Airport
+1264 Usinsk
+1265 Salekhard Airport
+1266 Dillingham
+1267 St Jacques
+1268 Comox
+1269 Gorgan Airport
+1270 Eilat
+1271 Kumamoto
+1272 Flamingo
+1273 Maupiti
+1274 Minacu Airport
+1275 Tavie Airport
+1276 Kingfisher Lake Airport
+1277 Londolovit Airport
+1278 Anglet
+1279 Toliara
+1280 Missoula Intl
+1281 Almeria
+1282 Mar Del Plata
+1283 Wokal Field Glasgow International Airport
+1284 Yanji Airport
+1285 Sokol
+1286 Thargomindah Airport
+1287 Port Hardy
+1288 Erkilet
+1289 Iskandar
+1290 Jiuzhaigou Huanglong
+1291 Donetsk Intl
+1292 George F L Charles
+1293 Eldoret Intl
+1294 The Pas Airport
+1295 Dr Ambedkar Intl
+1296 Cat Lake Airport
+1297 Heroes Del Acre
+1298 Thief River Falls
+1299 Vagar
+1300 McCook Regional Airport
+1301 Bale Mulhouse
+1302 Savusavu Airport
+1303 Matei Airport
+1304 Shire Inda Selassie Airport
+1305 Kenmore Air Harbor Inc Seaplane Base
+1306 Tunxi International Airport
+1307 Adi Sumarmo Wiryokusumo
+1308 Makemo
+1309 Totegegie
+1310 Chandigarh
+1311 Bosaso Airport
+1312 Horta
+1313 Kenora
+1314 Maastricht
+1315 Mianyang Airport
+1316 Pangsuma Airport
+1317 Alluitsup Paa Heliport
+1318 Ronchi Dei Legionari
+1319 Sao Jose Do Rio Preto
+1320 Tupelo Regional Airport
+1321 Cadete Guillermo Del Castillo Paredes
+1322 Cap Fap David Abenzur Rengifo Intl
+1323 Fujairah Intl
+1324 Norwich
+1325 Pensacola Rgnl
+1326 Juan Gualberto Gomez Intl
+1327 Ignatyevo
+1328 Nantong Airport
+1329 Kiunga Airport
+1330 Touat Cheikh Sidi Mohamed Belkebir
+1331 Sultan Babullah
+1332 Kawthoung Airport
+1333 Sachigo Lake Airport
+1334 Grand Bahama Intl
+1335 Karratha
+1336 Noumerat
+1337 Matsuyama
+1338 Sarajevo
+1339 Lodwar
+1340 Golfito
+1341 Kivalina Airport
+1342 Usiminas
+1343 Guanajuato Intl
+1344 Huntsville International Airport-Carl T Jones Field
+1345 Nouakchott
+1346 Lawas Airport
+1347 Batsfjord
+1348 Sanikiluaq Airport
+1349 Rijeka
+1350 Moorea
+1351 Copiapo
+1352 Okayama
+1353 Bacolod
+1354 Nizhnevartovsk
+1355 Rockhampton
+1356 Hewanorra Intl
+1357 Rondonopolis Airport
+1358 Alexandros Papadiamantis
+1359 Vancouver Coal Harbour
+1360 Tabubil Airport
+1361 Tari Airport
+1362 Gondar
+1363 Ireland West Knock
+1364 Juliaca
+1365 Lamu Manda
+1366 Nemiscau Airport
+1367 Baie Comeau
+1368 Comandante Espora
+1369 Cap Manuel Nino Intl
+1370 Bahia Piña Airport
+1371 Puerto Obaldia
+1372 Sambu Airport
+1373 Contadora Airport
+1374 Playon Chico
+1375 Vigra
+1376 Tasiujaq Airport
+1377 Lianyungang Airport
+1378 Fort Severn Airport
+1379 Mildura Airport
+1380 Cozumel Intl
+1381 Yangzhou Taizhou Airport
+1382 Merle K Mudhole Smith
+1383 Bintulu
+1384 Mare
+1385 Kone
+1386 Touho
+1387 Île des Pins Airport
+1388 Julia Creek Airport
+1389 Jackson Hole Airport
+1390 Sir Bani Yas Island
+1391 Dalma Airport
+1392 Savannah Hilton Head Intl
+1393 Kadala
+1394 Barter Island Lrrs
+1395 Samarkand
+1396 Yiwu Airport
+1397 Aasiaat
+1398 Matecana
+1399 Bratsk
+1400 Deline
+1401 Nuiqsut Airport
+1402 Antonio Maceo Intl
+1403 Qikiqtarjuaq
+1404 Apartadó Airport
+1405 Igiugig Airport
+1406 Perryville Airport
+1407 Macaé Airport
+1408 Frans Kaisiepo
+1409 Tatalina Lrrs
+1410 Nabire
+1411 Petersburg James A. Johnson
+1412 Paamiut Heliport
+1413 Baghdad International Airport
+1414 Yining Airport
+1415 Asahikawa
+1416 Lanai
+1417 Fak Fak
+1418 Lehigh Valley Intl
+1419 Hamilton Island Airport
+1420 Beihai Airport
+1421 Sidney-Richland Municipal Airport
+1422 Frank Wiley Field
+1423 Ulaangom Airport
+1424 Stronsay Airport
+1425 Sanday Airport
+1426 Habib Bourguiba Intl
+1427 Gheshm Airport
+1428 Hamilton
+1429 Hughenden Airport
+1430 Metlakatla Seaplane Base
+1431 General Juan N Alvarez Intl
+1432 Mitilini
+1433 Barcelos Airport
+1434 Tri Cities Airport
+1435 Eduardo Falla Solano
+1436 Plattsburgh Intl
+1437 Svolvær Helle Airport
+1438 Prefeito Renato Moreira
+1439 Manihi
+1440 Mataiva
+1441 Fakarava
+1442 Cape Dorset
+1443 Luxor Intl
+1444 Orenburg
+1445 Cincinnati Muni Lunken Fld
+1446 Capitan Nicolas Rojas
+1447 Aurukun Airport
+1448 Lviv Intl
+1449 Southend
+1450 Sary-Arka
+1451 Dickinson Theodore Roosevelt Regional Airport
+1452 Babelthuap
+1453 Aswan Intl
+1454 Vance Winkworth Amory International Airport
+1455 Busuanga
+1456 Fort St John
+1457 Wrangell Airport
+1458 Koyukuk Airport
+1459 Clovis Muni
+1460 Kallax
+1461 Vitória da Conquista Airport
+1462 Uummannaq Heliport
+1463 Rubem Berta
+1464 Lovell Fld
+1465 Sauce Viejo
+1466 Khanty Mansiysk Airport
+1467 Sandakan
+1468 Campo Alegre Airport
+1469 Lubumbashi Intl
+1470 Gregorio Luperon Intl
+1471 Transilvania Targu Mures
+1472 Hakodate
+1473 Megas Alexandros Intl
+1474 Cherry Capital Airport
+1475 Vilhena
+1476 Rochambeau
+1477 Karpathos
+1478 Tampere Pirkkala
+1479 Persian Gulf Airport
+1480 Bonaventure Airport
+1481 Platinum
+1482 Bellegarde
+1483 Saint Barthelemy
+1484 Fort Nelson
+1485 Mukhino
+1486 Anelghowhat Airport
+1487 Futuna Airport
+1488 Aniwa Airport
+1489 Dillon's Bay Airport
+1490 Ipota Airport
+1491 Roanoke Regional
+1492 Daniel Z Romualdez
+1493 Moses Kilangin
+1494 Xiangfan Airport
+1495 General Manuel Marquez De Leon Intl
+1496 Ganja Airport
+1497 Dunhuang Airport
+1498 Point Lay Lrrs
+1499 Asheville Regional Airport
+1500 Columbia Metropolitan
+1501 Birsa Munda
+1502 Namangan Airport
+1503 Long Island Mac Arthur
+1504 Kabri Dehar Airport
+1505 Gode Airport
+1506 Mangshi Airport
+1507 Nosara
+1508 Mosnov
+1509 Boa Vista
+1510 Rigolet Airport
+1511 Henry E Rohlsen
+1512 Marktoberdorf BF
+1513 Rotorua
+1514 Raivavae Airport
+1515 Rimatara
+1516 Gassim
+1517 Mutiara
+1518 Kalgoorlie Boulder
+1519 Rick Husband Amarillo Intl
+1520 Palmas
+1521 Livingstone
+1522 Tongliao Airport
+1523 Ogoki Post Airport
+1524 Morondava
+1525 Nagoya Airport
+1526 Tawau
+1527 Bronnoy
+1528 Sebha
+1529 Dodge City Regional Airport
+1530 Hamilton
+1531 Nelson
+1532 Robert L Bradshaw
+1533 Flores
+1534 Nadym Airport
+1535 Amritsar
+1536 Santa Barbara Muni
+1537 Røssvoll Airport
+1538 Albany Airport
+1539 Brusselton
+1540 Great Falls Intl
+1541 Burlington Intl
+1542 Crooked Creek Airport
+1543 General Francisco J Mujica Intl
+1544 Bishop International
+1545 Western Nebraska Regional Airport
+1546 Alliance Municipal Airport
+1547 Pichoy
+1548 Auvergne
+1549 Rapid City Regional Airport
+1550 Ministro Victor Konder Intl
+1551 Hat Yai Intl
+1552 Rabil
+1553 Paderborn Lippstadt
+1554 Ras Al Khaimah Intl
+1555 Maniitsoq Airport
+1556 Sisimiut Airport
+1557 Friedrichshafen
+1558 Broken Hill Airport
+1559 Ust Kamenogorsk Airport
+1560 Belep Islands Airport
+1561 Normanton Airport
+1562 Ji-Paraná Airport
+1563 Trabzon
+1564 Senador Nilo Coelho
+1565 Southwest Bay Airport
+1566 Lamap Airport
+1567 Geraldton Greenstone Regional
+1568 Greater Moncton Intl
+1569 North Ronaldsay Airport
+1570 Westray Airport
+1571 Grise Fiord Airport
+1572 Port Menier
+1573 Andenes
+1574 Balmaceda
+1575 Multan Intl
+1576 Sultan Iskandarmuda
+1577 Campbell River
+1578 Sorkjosen Airport
+1579 Seymour
+1580 Karmoy
+1581 Akita
+1582 Osnova International Airport
+1583 Mt. Fuji Shizuoka Airport
+1584 Stony River 2 Airport
+1585 Allakaket Airport
+1586 Taif
+1587 Monterey Peninsula
+1588 Gurupi Airport
+1589 Vanimo Airport
+1590 Pelotas
+1591 Williams Lake
+1592 Fascene
+1593 Francisco De Orellana
+1594 General Santos International Airport
+1595 Klawock Airport
+1596 Gelendzik
+1597 Yeager
+1598 Zaragoza Ab
+1599 Samos
+1600 Ahe Airport
+1601 Major Brigadeiro Trompowsky
+1602 Antsirabato
+1603 Silchar
+1604 Wynyard Airport
+1605 Roma Airport
+1606 Bagotville
+1607 Coen Airport
+1608 Lugano
+1609 Rivesaltes
+1610 Kengtung
+1611 Orlando Bezerra de Menezes Airport
+1612 Aitutaki
+1613 General Francisco Javier Mina Intl
+1614 Minto Airport
+1615 Circle City Airport
+1616 Maquehue
+1617 Bauru-Arealva
+1618 Pueblo Memorial
+1619 Barreiras Airport
+1620 Sloulin Fld Intl
+1621 Canyonlands Field
+1622 Juwata
+1623 Yakutat
+1624 Sukkur
+1625 Hay River
+1626 Dibrugarh Airport
+1627 Angads
+1628 Hughes Airport
+1629 Long Apung Airport
+1630 Tana Toraja Airport
+1631 Port Blair
+1632 Jining Airport 
+1633 Valan
+1634 Mutiara Ii
+1635 Aktyubinsk
+1636 Huangyan Luqiao Airport
+1637 Uromiyeh Airport
+1638 Turbat International Airport
+1639 Mallam Aminu Intl
+1640 Gove Airport
+1641 Groote Eylandt Airport
+1642 Falconara
+1643 Turany
+1644 Chuuk Intl
+1645 Alma Airport
+1646 Marshall Islands Intl
+1647 Manzhouli
+1648 Oita
+1649 Cabo Velas Airport
+1650 Cassidy Intl
+1651 Lubbock Preston Smith Intl
+1652 Ixtapa Zihuatanejo Intl
+1653 Worland Municipal Airport
+1654 Galcaio Airport
+1655 Appleton
+1656 Jasionka
+1657 Midland Intl
+1658 Vilankulo
+1659 Atiu Island Airport
+1660 Shymkent
+1661 Wanganui
+1662 Taupo
+1663 Milingimbi Airport
+1664 Elcho Island Airport
+1665 Abel Santamaria
+1666 Sogndal Airport
+1667 Umea
+1668 North Platte Regional Airport Lee Bird Field
+1669 Belgorod International Airport
+1670 Kingman Airport
+1671 Kerman
+1672 Trenton Mercer
+1673 Sainte Marie
+1674 Nanping Wuyishan Airport
+1675 Atlantic City Intl
+1676 Tabuk
+1677 Leros
+1678 Terrace
+1679 Svartnes Airport
+1680 Elfin Cove Seaplane Base
+1681 Tenakee Seaplane Base
+1682 Trichy
+1683 Capitán Av. Selin Zeitun Lopez Airport
+1684 Tambolaka Airport
+1685 Ndjamena Hassan Djamous
+1686 Sault Ste Marie
+1687 Røst Airport
+1688 Long Akah Airport
+1689 Long Lellang Airport
+1690 Long Seridan Airport
+1691 Bario Airport
+1692 Krabi
+1693 Roberval
+1694 Gladstone Airport
+1695 Coffs Harbour
+1696 Sumburgh
+1697 Palonegro
+1698 Central Illinois Rgnl
+1699 Excursion Inlet Seaplane Base
+1700 Kake Seaplane Base
+1701 East London
+1702 A Coruna
+1703 Kasane
+1704 Chertovitskoye
+1705 Ballina Byron Gateway
+1706 Chicago Rockford International Airport 
+1707 Macapa
+1708 Cibao Intl
+1709 Santa Rosa
+1710 Datong Airport
+1711 Glacier Park Intl
+1712 Mariscal Lamar
+1713 Eday Airport
+1714 Chifeng Airport
+1715 Gumrak
+1716 Kopitnari
+1717 Salvaza
+1718 Cayo Coco Airport
+1719 Pakse
+1720 Selawik Airport
+1721 Noatak Airport
+1722 Port Lions Airport
+1723 Carlos Alberto da Costa Neves Airport
+1724 Ganzhou Airport
+1725 El Calafate
+1726 Hatay Airport
+1727 Santa Fe Muni
+1728 Exuma Intl
+1729 Shubuling Airport
+1730 Yacuiba
+1731 North Whale Seaplane Base
+1732 Port Protection Seaplane Base
+1733 Sao Pedro
+1734 Pormpuraaw Airport
+1735 Kowanyama Airport
+1736 Memanbetsu
+1737 Tasiilaq
+1738 Poplar Hill Airport
+1739 Taiz Intl
+1740 Bangui M Poko
+1741 Huron Rgnl
+1742 Tjilik Riwut
+1743 San Luis
+1744 Blackpool
+1745 Almirante Zar
+1746 Heilongjiang Mohe Airport
+1747 Merimbula Airport
+1748 Roberts Fld
+1749 Corvo Airport
+1750 Allahabad
+1751 Fort Frances Municipal Airport
+1752 Pescara
+1753 Wallblake
+1754 Torreon Intl
+1755 Valdez Pioneer Fld
+1756 Kenai Muni
+1757 In Salah
+1758 Maturin
+1759 Arvidsjaur
+1760 Governador Valadares Airport
+1761 North Eleuthera
+1762 Illizi Takhamalt
+1763 Jesus Teran Intl
+1764 Banak
+1765 Grafton Airport
+1766 Cocos Keeling Island Airport
+1767 Zhanjiang Airport
+1768 Aizawl
+1769 Cachimbo
+1770 Land's End / St. Just Airport
+1771 Sunshine Coast
+1772 Panama City-NW Florida Bea.
+1773 Ängelholm-Helsingborg Airport
+1774 Bahias De Huatulco Intl
+1775 Padre Aldamiz
+1776 Angel Albino Corzo
+1777 Jalaluddin
+1778 Bayankhongor Airport
+1779 Altai Airport
+1780 Capitan Corbeta C A Curbelo International Airport
+1781 Teniente Benjamin Matienzo
+1782 San Juan
+1783 Puerto Carreno
+1784 Obando Airport
+1785 Godofredo P
+1786 Ozamis
+1787 Butuan
+1788 Vigo
+1789 Sde Dov
+1790 Los Garzones
+1791 Perales
+1792 Huai An Lianshui Airport
+1793 Idaho Falls Rgnl
+1794 Karuluk Airport
+1795 Zachar Bay Seaplane Base
+1796 Zhob
+1797 Los Colonizadores Airport
+1798 Tame
+1799 San Cristóbal Airport
+1800 Tambor Airport
+1801 Drake Bay Airport
+1802 Ayers Rock
+1803 Bella Bella Airport
+1804 Munster Osnabruck
+1805 Grand Rapids Itasca County
+1806 Tallahassee Rgnl
+1807 Ukhta
+1808 Nanaimo Harbour Water Airport
+1809 Quesnel
+1810 Shreveport Rgnl
+1811 Fuyang Airport
+1812 Victoria Falls Intl
+1813 Altamira
+1814 William R Fairchild International Airport
+1815 Iasi
+1816 Stornoway
+1817 Lewiston Nez Perce Co
+1818 Sari Dasht E Naz Airport
+1819 Kushiro Airport
+1820 Mid Delta Regional Airport
+1821 Port Heiden Airport
+1822 Chignik Lake Airport
+1823 Levelock Airport
+1824 Pilot Point Airport
+1825 Egegik Airport
+1826 Palmar Sur
+1827 Salalah
+1828 Whitehorse Intl
+1829 Kagau Island Airport
+1830 Ballalae Airport
+1831 Choiseul Bay Airport
+1832 Vinh Airport
+1833 Takotna Airport
+1834 Nikolai Airport
+1835 Biratnagar
+1836 Tumling Tar
+1837 In Amenas
+1838 Kochi
+1839 Quelimane
+1840 Lubango
+1841 Udon Thani
+1842 Changzhi Airport
+1843 Hilo Intl
+1844 General Lucio Blanco Intl
+1845 Simon Bolivar
+1846 Gander Intl
+1847 Vunisea Airport
+1848 Labasa Airport
+1849 Luoyang Airport
+1850 Marina Di Campo
+1851 Newport News Williamsburg Intl
+1852 Cabo Frio International Airport
+1853 Tri State Milton J Ferguson Field
+1854 Wanxian Airport
+1855 Toyama
+1856 Bartolomeu Lisandro
+1857 Paulatuk
+1858 Tuktoyaktuk
+1859 Mazamet
+1860 Borba Airport
+1861 Trà Nóc Airport
+1862 Uytash
+1863 Kamloops
+1864 Gainesville Rgnl
+1865 Niagara Falls Intl
+1866 Sarasota Bradenton Intl
+1867 Oguzeli
+1868 Cam Ranh Airport
+1869 Urgench Airport
+1870 Fort Hope Airport
+1871 Bathurst Airport
+1872 Parkes Airport
+1873 Griffith Airport
+1874 Narrandera Airport
+1875 Hovden
+1876 Lampedusa
+1877 Yancheng Airport
+1878 Kruger Mpumalanga International Airport
+1879 Egilsstadir
+1880 Isafjordur
+1881 Akureyri
+1882 Jingdezhen Airport
+1883 Ryum Airport
+1884 Spring Point
+1885 Colonel Hill Airport
+1886 Marcillac
+1887 Kapalua
+1888 Malanje
+1889 Saurimo
+1890 Grand Junction Regional
+1891 Valley Intl
+1892 Mwanza
+1893 Ardabil Airport
+1894 Ourilandia do Norte Airport
+1895 Piedras Negras Intl
+1896 Jiayuguan Airport
+1897 Ain Arnat Airport
+1898 Smithers
+1899 Nain Airport
+1900 Aspen Pitkin County Sardy Field
+1901 London
+1902 Wolter Monginsidi
+1903 Rurrenabaque Airport
+1904 Jing Gang Shan Airport
+1905 Wilkes Barre Scranton Intl
+1906 Gerrard Smith Intl
+1907 Yenbo
+1908 Arenal Airport
+1909 Batumi
+1910 Sohag International
+1911 La Palma
+1912 Cheddi Jagan Intl
+1913 Amboseli Airport
+1914 Ukunda Airport
+1915 Fort Simpson
+1916 Aomori
+1917 Xoxocotlan Intl
+1918 Takamatsu
+1919 Hasvik
+1920 Lar Airport
+1921 Misima Island Airport
+1922 Losuia Airport
+1923 Playa De Oro Intl
+1924 Khajuraho
+1925 Charlottetown
+1926 Udaipur
+1927 Mc Allen Miller Intl
+1928 Rainbow Lake Airport
+1929 High Level
+1930 Dera Ismael Khan Airport
+1931 Zenata
+1932 New Plymouth
+1933 Tauranga
+1934 Woodbourne
+1935 Napier
+1936 Leh
+1937 Vieques Airport
+1938 Porbandar
+1939 Paro
+1940 Lanseria
+1941 Conceicao Do Araguaia
+1942 Port Moller Airport
+1943 Inhambane
+1944 Dnipropetrovsk Intl
+1945 Dubbo
+1946 Axum
+1947 Tomsk Bogashevo Airport
+1948 Charles M Schulz Sonoma Co
+1949 Gambella
+1950 Jimma
+1951 Bloemfontein Intl
+1952 Begishevo
+1953 Eelde
+1954 Madurai
+1955 Sialkot Airport
+1956 Radin Inten II (Branti) Airport
+1957 Albury
+1958 Capital City
+1959 Charlottesville-Albemarle
+1960 Bordj Badji Mokhtar Airport
+1961 Dipolog
+1962 Amaury Feitosa Tomaz Airport
+1963 Red Devil Airport
+1964 Depati Amir
+1965 Marshall Don Hunter Sr. Airport
+1966 Goodnews Airport
+1967 Moranbah Airport
+1968 Innsbruck
+1969 Sultan Thaha
+1970 George
+1971 Gulfport-Biloxi
+1972 Annaba
+1973 Araxos
+1974 Camilo Daza
+1975 Laredo Intl
+1976 Mario Ribeiro
+1977 Jujuy
+1978 Bangor Intl
+1979 Havre City Co
+1980 Ignacio Agramonte Intl
+1981 Goroka
+1982 Hermanos Serdan Intl
+1983 Namsos Høknesøra Airport
+1984 Sulaymaniyah International Airport
+1985 Kapuskasing
+1986 Churchill Falls Airport
+1987 Kasos
+1988 Eloy Alfaro Intl
+1989 Hemavan Airport
+1990 Guanambi Airport
+1991 St Pierre
+1992 Zhoushan Airport
+1993 Bella Coola Airport
+1994 Anahim Lake Airport
+1995 Marília Airport
+1996 Oranjemund Airport
+1997 Aracatuba
+1998 Tarapacá Airport
+1999 La Pedrera Airport
+2000 Kadhdhoo Airport
+2001 Kaadedhdhoo
+2002 Gan Island Airport
+2003 Kooddoo
+2004 Ngaoundere
+2005 Buka Airport
+2006 Kavieng Airport
+2007 Hodeidah Intl
+2008 Westerland Sylt
+2009 Goleniow
+2010 Ford Airport
+2011 Jamestown Regional Airport
+2012 Devils Lake Regional Airport
+2013 Brainerd Lakes Rgnl
+2014 Rhinelander Oneida County Airport
+2015 Falls Intl
+2016 Valle Del Fuerte Intl
+2017 Mekoryuk Airport
+2018 Xilinhot Airport
+2019 Turku
+2020 Corumba Intl
+2021 Old Harbor Airport
+2022 Ouzinkie Airport
+2023 Akiak Airport
+2024 Fukue
+2025 Yulin Airport
+2026 Tajin
+2027 Grand Forks Intl
+2028 Dalanzadgad Airport
+2029 Muren Airport
+2030 Buon Ma Thuot Airport
+2031 Humera Airport
+2032 Vias
+2033 Rio Grande
+2034 Araguaina Airport
+2035 Labuan
+2036 Arcata
+2037 Cheongju International Airport
+2038 Surat Thani
+2039 Pantelleria
+2040 Al Najaf International Airport
+2041 Heringsdorf Airport
+2042 Cotopaxi International Airport
+2043 Yibin
+2044 Mobile Rgnl
+2045 Soummam
+2046 Franklin
+2047 DuBois Regional Airport
+2048 Chautauqua County-Jamestown
+2049 Bradford Regional Airport
+2050 Eglin Afb
+2051 Lashio
+2052 Daegu Ab
+2053 Kittila
+2054 Cabinda
+2055 General Rivadeneira Airport
+2056 Le Palyvestre
+2057 Amarais Airport
+2058 Ravensthorpe Airport
+2059 Antonio Narino
+2060 Jiamusi Airport
+2061 Rahadi Usman
+2062 Presidente Joao Suassuna
+2063 Bugulma Airport
+2064 Diyarbakir
+2065 Elazig
+2066 Kvernberget
+2067 Zweibruecken
+2068 Kangiqsualujjuaq (Georges River) Airport
+2069 Kuito
+2070 Huambo
+2071 Catumbela Airport
+2072 Menongue
+2073 Béchar Boudghene Ben Ali Lotfi Airport
+2074 Tindouf
+2075 Kostanay West Airport
+2076 Durango Intl
+2077 Levaldigi
+2078 Qiqihar Sanjiazi Airport
+2079 Mulu
+2080 Fort Chipewyan
+2081 Astrakhan
+2082 Ittoqqortoormiit Heliport
+2083 Gatokae Airport
+2084 Fera/Maringe Airport
+2085 Ramata Airport
+2086 Auki Airport
+2087 Santa Cruz/Graciosa Bay/Luova Airport
+2088 Marau Airport
+2089 Afutara Airport
+2090 Austin Straubel Intl
+2091 Tri-Cities Regional Airport
+2092 Chuathbaluk Airport
+2093 Altoona Blair Co
+2094 John Murtha Johnstown-Cambria County Airport
+2095 Jodhpur
+2096 Ciudad del Este
+2097 Presidente Nicolau Lobato Intl
+2098 Emerald
+2099 Chiang Rai Intl
+2100 La Roche
+2101 Pavlodar
+2102 Cloncurry Airport
+2103 Sitia
+2104 Minot Intl
+2105 Bismarck Municipal Airport
+2106 Metz Nancy Lorraine
+2107 Lubeck Blankensee
+2108 Salt Cay Airport
+2109 South Caicos
+2110 Fabio Alberto Leon Bentley
+2111 Long Banga Airport
+2112 Watertown Regional Airport
+2113 Altay Airport
+2114 Toledo
+2115 Miyako
+2116 Valladolid
+2117 Sayun International Airport
+2118 Sultan Mahmud
+2119 Sultan Abdul Halim
+2120 Osmany Intl
+2121 Fergana Airport
+2122 King Island Airport
+2123 Sydney
+2124 Kegaska Airport
+2125 Mataveri Intl
+2126 Wilmington Intl
+2127 E T Joshua
+2128 Gillam Airport
+2129 Campo Dos Bugres
+2130 Lauro Carneiro De Loyola
+2131 Hanamaki
+2132 Uberaba
+2133 Saarbrucken
+2134 Grande Prairie
+2135 Vilo Acuna Intl
+2136 Pobedilovo Airport
+2137 Barnaul
+2138 Moruya Airport
+2139 General Leobardo C Ruiz Intl
+2140 Uralsk
+2141 Kalymnos Island
+2142 Molokai
+2143 Branson LLC
+2144 Limnos
+2145 Barnstable Muni Boardman Polando Fld
+2146 Governors Harbour
+2147 Loreto Intl
+2148 Melilla
+2149 Pointe Vele Airport
+2150 Van
+2151 Queretaro Intercontinental
+2152 Pau Pyrenees
+2153 Duluth Intl
+2154 Gillette-Campbell County Airport
+2155 Rock Springs Sweetwater County Airport
+2156 Sinop Airport
+2157 Morgantown Muni Walter L Bill Hart Fld
+2158 Basrah Intl
+2159 Crown Point
+2160 Port Macquarie Airport
+2161 Josefa Camejo
+2162 Granada
+2163 Diqing Airport
+2164 Takapoto
+2165 Sand Point Airport
+2166 Cold Bay
+2167 Homer
+2168 Dali
+2169 Virgin Gorda Airport
+2170 City of Derry
+2171 Łódź Władysław Reymont Airport
+2172 Cape Lisburne Lrrs
+2173 Kumasi Airport
+2174 Tufi Airport
+2175 Tsushima
+2176 Floro
+2177 Liege
+2178 Lincoln
+2179 Balimo Airport
+2180 Halmstad
+2181 Sao Felix do Araguaia Airport
+2182 Perugia
+2183 Magong
+2184 Shang Yi
+2185 Chalkyitsik Airport
+2186 Hotan
+2187 Kalmar
+2188 Izhevsk Airport
+2189 Lichinga
+2190 Kuantan
+2191 Sale
+2192 Legazpi
+2193 Dumaguete
+2194 Coari Airport
+2195 Port Sudan New International Airport
+2196 Asyut International Airport
+2197 Tagbilaran
+2198 Laoag Intl
+2199 Funafuti International
+2200 Vanua Balavu Airport
+2201 Cicia Airport
+2202 Lakeba Island Airport
+2203 South Arkansas Rgnl At Goodwin Fld
+2204 Memorial Field
+2205 Pico
+2206 Ubon Ratchathani
+2207 New Kitakyushu
+2208 Baton Rouge Metro Ryan Fld
+2209 Grand Case
+2210 Helena Rgnl
+2211 Tavaux
+2212 Beloyarsky
+2213 Wuhai
+2214 Fatmawati Soekarno
+2215 King Abdullah Bin Abdulaziz
+2216 Dehradun
+2217 Newman Airport
+2218 Learmonth
+2219 Geraldton Airport
+2220 Kandahar
+2221 Obihiro
+2222 Jorhat
+2223 Humaita Airport
+2224 Edward Bodden Airfield
+2225 Tiska
+2226 Corpus Christi Intl
+2227 Bukhara
+2228 Professor Urbano Ernesto Stumpf
+2229 Fukushima Airport
+2230 Mayor Buenaventura Vivas
+2231 Savannakhet
+2232 Kzyl-Orda
+2233 Bydgoszcz Ignacy Jan Paderewski Airport
+2234 Bakalalan Airport
+2235 Gaspe
+2236 Mudanjiang
+2237 Astypalaia
+2238 Meadows Fld
+2239 Capitan Fap Guillermo Concha Iberico
+2240 Oriximina Airport
+2241 Central Airport
+2242 Healy River Airport
+2243 Rampart Airport
+2244 Manley Hot Springs Airport
+2245 Wagga Wagga
+2246 Vadodara
+2247 Aurangabad
+2248 Chios
+2249 Aarhus
+2250 Rock Sound
+2251 Choibalsan Airport
+2252 Treasure Cay
+2253 Gwadar
+2254 Kemerovo
+2255 Vijayawada
+2256 Noyabrsk
+2257 Nea Anchialos
+2258 North Bay
+2259 Marsa Alam Intl
+2260 Nanyang Airport
+2261 Fayetteville Regional Grannis Field
+2262 Konya
+2263 Reggio Calabria
+2264 Harrison Marion Regional Airport
+2265 Luzhou Airport
+2266 Skagen
+2267 Ciudad Obregon Intl
+2268 General Rodolfo Sanchez Taboada Intl
+2269 Lensk
+2270 Hualien
+2271 Changde Airport
+2272 Walvis Bay Airport
+2273 Dachuan Airport
+2274 Gwangju
+2275 Barau(Kalimaru) Airport
+2276 Sara Airport
+2277 Walaha Airport
+2278 Tte De Av Salvador Ogaya G
+2279 Ikaria
+2280 Gisborne
+2281 Whangarei
+2282 Vorkuta Airport
+2283 Ponciano Arriaga Intl
+2284 New Castle
+2285 Vaasa
+2286 Dawson Creek
+2287 Central
+2288 Invercargill
+2289 Morristown Municipal Airport
+2290 Oued Irara
+2291 Abu Simbel
+2292 Pajala Airport
+2293 Mangaia Island Airport
+2294 Mauke Airport
+2295 Mitiaro Island Airport
+2296 Batna Airport
+2297 Parma
+2298 Guangyuan Airport
+2299 Biard
+2300 Uraj
+2301 Mukah Airport
+2302 Mahshahr
+2303 Coldfoot Airport
+2304 Birjand
+2305 Ramsar
+2306 Tamale
+2307 Wajir
+2308 Weipa
+2309 Aerotortuguero Airport
+2310 Changbaishan Airport
+2311 Stewart Intl
+2312 Avaratra
+2313 Aro
+2314 Philibert Tsiranana
+2315 Ulanhot Airport
+2316 Jolo Airport
+2317 Fredericton
+2318 Sanliurfa GAP
+2319 Puerto Lempira Airport
+2320 Hyakuri
+2321 Youngstown Warren Rgnl
+2322 Montrose Regional Airport
+2323 Eagle Co Rgnl
+2324 Erfurt
+2325 Ranai Airport
+2326 Port Lincoln Airport
+2327 Cat Bi International Airport
+2328 Iki
+2329 San Salvador
+2330 Ronneby
+2331 Arnold Palmer Regional Airport
+2332 Fernando De Noronha
+2333 Humberside
+2334 Xingyi Airport
+2335 Capitán de Av. Emilio Beltrán Airport
+2336 Lourdes
+2337 Lynn Lake
+2338 Barquisimeto Intl
+2339 Dalat
+2340 Del Norte County Airport
+2341 Pelican Seaplane Base
+2342 Angoon Seaplane Base
+2343 Herat
+2344 Rach Gia
+2345 F D Roosevelt
+2346 Nukus Airport
+2347 Thandwe
+2348 Karlovy Vary
+2349 Trang
+2350 Nakhon Si Thammarat
+2351 Nakhon Phanom
+2352 Caucaya Airport
+2353 Friedman Mem
+2354 Puerto Penasco
+2355 Durango La Plata Co
+2356 Porto Santo
+2357 Kaukura
+2358 Bonito Airport
+2359 Lublin
+2360 Puerto Escondido Intl
+2361 Abbotsford
+2362 Charlo
+2363 Grozny Airport
+2364 Sibiu
+2365 Wai Oti
+2366 Mau Hau
+2367 Zhoubai
+2368 Val De Loire
+2369 Durham Tees Valley Airport
+2370 Montgomery Regional Airport 
+2371 Saidpur
+2372 Windsor
+2373 Juan Casiano
+2374 Gibraltar
+2375 Pardubice
+2376 Sannvhe
+2377 Camilo Ponce Enriquez Airport
+2378 Central Wisconsin
+2379 El Alcaraván Airport
+2380 Alfonso Lopez Pumarejo
+2381 Santiago Perez
+2382 Gustavo Artunduaga Paredes
+2383 Jorge E Gonzalez Torres
+2384 Gerardo Tobar Lopez
+2385 Benito Salas
+2386 Patos de Minas Airport
+2387 Weifang Airport
+2388 Kerry
+2389 Abraham Lincoln Capital
+2390 Anda Airport
+2391 Forquilhinha
+2392 Hao
+2393 Tureia Airport
+2394 Arutua
+2395 Evansville Regional
+2396 Cascavel
+2397 Preguica
+2398 Presidente Prudente
+2399 Pullman-Moscow Rgnl
+2400 Valesdir Airport
+2401 Tongoa Island Airport
+2402 Lamen Bay Airport
+2403 Sangafa Airport
+2404 Moenjodaro
+2405 Karshi Khanabad Airport
+2406 Navoi Airport
+2407 Jiujiang Lushan Airport
+2408 Korla Airport
+2409 Shanhaiguan Airport
+2410 Coronel Carlos Ciriani Santa Rosa Intl
+2411 Proserpine Whitsunday Coast
+2412 Bundaberg
+2413 Bubung
+2414 Longyear
+2415 Santiago Del Estero
+2416 Corrientes
+2417 Posadas
+2418 San Rafael
+2419 Catamarca
+2420 Resistencia
+2421 Formosa
+2422 La Rioja
+2423 Esquel
+2424 Gobernador Castello
+2425 Rio Grande
+2426 Termal
+2427 Aviador C Campos
+2428 El Tehuelche
+2429 Francistown
+2430 Albert J Ellis
+2431 Augusta Rgnl At Bush Fld
+2432 Masbate Airport
+2433 Surigao Airport
+2434 H As Hanandjoeddin
+2435 South Naknek Airport
+2436 St Pierre Pierrefonds
+2437 Hail
+2438 Cotabato
+2439 Roxas Airport
+2440 Tuguegarao Airport
+2441 Naga Airport
+2442 Lankaran International Airport
+2443 Anqing Airport
+2444 Tirupati
+2445 Kulob Airport
+2446 Biskra
+2447 Warri Airport
+2448 Benin
+2449 Calabar
+2450 Enugu
+2451 Imo Airport
+2452 Bahawalpur Airport
+2453 Tin City LRRS Airport
+2454 Salisbury Ocean City Wicomico Rgnl
+2455 Utila Airport
+2456 Kanas Airport
+2457 Jose Celestino Mutis
+2458 Solwesi Airport
+2459 Prince Rupert
+2460 Kerteh
+2461 Sundsvall Harnosand
+2462 Sovetsky Tyumenskaya Airport
+2463 Dhangarhi
+2464 Nepalgunj Airport
+2465 Bhairahawa
+2466 Bharatpur Airport
+2467 Chandragadhi Airport
+2468 Pokhara
+2469 Kars Airport
+2470 Samaná El Catey International Airport
+2471 La Abraq Airport
+2472 Abdul Rachman Saleh
+2473 Kimmirut Airport
+2474 Erhac
+2475 Erzurum
+2476 Belbek Sevastopol International Airport
+2477 Norfolk Island Intl
+2478 Lord Howe Island Airport
+2479 Avalon
+2480 Tamworth
+2481 Hervey Bay Airport
+2482 Dimokritos
+2483 Mattala Rajapaksa Intl.
+2484 Rochester
+2485 Mount Gambier Airport
+2486 Mopah
+2487 Wamena
+2488 Kudat Airport
+2489 Yan'an Airport
+2490 Coffman Cove Seaplane Base
+2491 Point Baker Seaplane Base
+2492 Hydaburg Seaplane Base
+2493 La Garenne
+2494 Canadian Rockies Intl
+2495 Dimapur Airport
+2496 Al Ain International Airport
+2497 Cruzeiro do Sul
+2498 Sao Jorge
+2499 Nyala Airport
+2500 Geneina Airport
+2501 Tengchong Tuofeng Airport
+2502 Ciudad Del Carmen Intl
+2503 Egal Intl
+2504 Ulsan
+2505 Yeosu
+2506 Pohang
+2507 Shpakovskoye
+2508 Babo
+2509 Kosice
+2510 Osvaldo Vieira International Airport
+2511 Oulu
+2512 Sacheon Air Base
+2513 Phitsanulok
+2514 Nan
+2515 Mae Sot Airport
+2516 Mardin Airport
+2517 Ithaca Tompkins Rgnl
+2518 Central Nebraska Regional Airport
+2519 Mudgee Airport
+2520 Lutselk'e Airport
+2521 Whatì Airport
+2522 Rae Lakes Airport
+2523 Vasteras
+2524 Quzhou Airport
+2525 Nanchong Airport
+2526 Juan Pablo Pérez Alfonso Airport
+2527 Stagen Airport
+2528 Esbjerg
+2529 Orange Airport
+2530 Nouadhibou
+2531 Sivas
+2532 Gazipasa Airport
+2533 Paulo Abdala Airport
+2534 Stella Maris
+2535 Deadmans Cay
+2536 Araxa Airport
+2537 Reyes Murillo Airport
+2538 Soyo
+2539 Pamplona
+2540 Esperance Airport
+2541 Bayannur
+2542 Chileka Intl
+2543 Dandong
+2544 Rafael Hernandez
+2545 Ust-Kut
+2546 Qingshan
+2547 Hays Regional Airport
+2548 Elmira Corning Rgnl
+2549 Red Deer Regional
+2550 Jiagedaqi Airport
+2551 Heihe Airport
+2552 Hebei Handan Airport
+2553 Muan
+2554 Dongying Airport
+2555 Capt Jose A Quinones Gonzales Intl
+2556 Coronel Fap Alfredo Mendivil Duarte
+2557 Mayor General FAP Armando Revoredo Iglesias Airport
+2558 Andahuaylas
+2559 Capitan Carlos Martinez De Pinillos
+2560 Alferez Fap David Figueroa Fernandini Airport
+2561 Sittwe
+2562 Semipalatinsk
+2563 Kimberley
+2564 Upington
+2565 Hoedspruit Afb
+2566 Waterloo
+2567 Wapenamanda Airport
+2568 Mendi Airport
+2569 Saint John
+2570 Sao Tome Intl
+2571 Jinzhou Airport
+2572 New Bedford Regional Airport
+2573 Pleiku Airport
+2574 Mogador Airport
+2575 Carpiquet
+2576 Laage
+2577 Kalay Airport
+2578 Banmaw Airport
+2579 Riviere Rouge - Mont-Tremblant International Inc. Airport
+2580 Natrona Co Intl
+2581 Amook Bay Seaplane Base
+2582 Larsen Bay Airport
+2583 Akhiok Airport
+2584 Port Bailey Seaplane Base
+2585 Kitoi Bay Seaplane Base
+2586 Lafayette Rgnl
+2587 Monroe Rgnl
+2588 Robert Gray Aaf
+2589 Alexandria Intl
+2590 Jessore
+2591 Coxs Bazar
+2592 Casa De Campo Intl
+2593 Caumont
+2594 Benbecula
+2595 Almirante Padilla
+2596 Socotra Intl
+2597 La Crosse Municipal
+2598 Mbs Intl
+2599 Kalamazoo
+2600 Canouan
+2601 Palanga Intl
+2602 Lappeenranta
+2603 Gustavo Rizo
+2604 Carlos Manuel De Cespedes
+2605 Sierra Maestra
+2606 Orestes Acosta
+2607 Barataevka
+2608 Qingyang Airport
+2609 Barinas
+2610 Yonago Kitaro
+2611 Leshukonskoye Airport
+2612 Kotlas Airport
+2613 Solovki Airport
+2614 Mount Pleasant
+2615 Bisha
+2616 Al Baha
+2617 Nejran
+2618 Garons
+2619 Dumatubun Airport
+2620 Craven Co Rgnl
+2621 Hassan I Airport
+2622 Spichenkovo Airport
+2623 Abakan
+2624 Surat
+2625 Jabalpur
+2626 Hami Airport
+2627 El Eden
+2628 Santa Maria Pub Cpt G Allan Hancock Airport
+2629 Mammoth Yosemite Airport
+2630 Santa Maria
+2631 Hilton Head
+2632 Pleurtuit
+2633 Rajkot
+2634 Rajahmundry
+2635 Andizhan Airport
+2636 Yamaguchi Ube
+2637 Tokushima
+2638 Faisalabad Intl
+2639 Dera Ghazi Khan Airport
+2640 Erie Intl Tom Ridge Fld
+2641 Islita Airport
+2642 Yamagata
+2643 Misawa Ab
+2644 Amami
+2645 Iwami Airport
+2646 Bacau
+2647 Yap Intl
+2648 Mae Hong Son
+2649 Redang
+2650 Pulau Tioman
+2651 Igdir
+2652 Batman
+2653 Erzincan
+2654 Mus Airport
+2655 Limbang
+2656 Lewistown Municipal Airport
+2657 San Luis County Regional Airport
+2658 Greater Binghamton Edwin A Link Fld
+2659 University Park Airport
+2660 Uyuni Airport
+2661 Vatry
+2662 Pluguffan
+2663 Magnitogorsk
+2664 Hancock County - Bar Harbor
+2665 Al Ghaidah Intl
+2666 Bandar Lengeh
+2667 Framnes
+2668 Iliamna
+2669 Adak Airport
+2670 Tepic
+2671 Colima
+2672 Belize City Municipal Airport
+2673 Caye Chapel Airport
+2674 Dangriga Airport
+2675 Kisumu
+2676 Trombetas
+2677 Takoradi
+2678 Guanaja
+2679 Zhijiang Airport
+2680 Boutheon
+2681 Jixi Airport
+2682 Sanandaj
+2683 Yasuj Airport
+2684 Bam Airport
+2685 Sahand Airport
+2686 Khoram Abad Airport
+2687 Ilam Airport
+2688 Sabzevar National Airport
+2689 Parsabade Moghan Airport
+2690 Bojnourd Airport
+2691 Aksu Airport
+2692 Kuqa Airport
+2693 Woerthersee International Airport
+2694 Zhongwei Xiangshan Airport
+2695 Pagadian
+2696 Tapuruquara Airport
+2697 Julio Belem Airport
+2698 Maues Airport
+2699 Manicore
+2700 Catarman National Airport
+2701 Calbayog Airport
+2702 Basco Airport
+2703 Bata
+2704 General Servando Canales Intl
+2705 Ingeniero Alberto Acuna Ongay Intl
+2706 Wakkanai
+2707 Nakashibetsu
+2708 Owensboro Daviess County Airport
+2709 Westport
+2710 Timaru
+2711 St Gallen Altenrhein
+2712 Provo Municipal Airport
+2713 Dalbandin Airport
+2714 Monrovia Spriggs Payne
+2715 Kumejima
+2716 Zafer
+2717 Ibadan
+2718 Yola
+2719 Sadiq Abubakar Iii Intl
+2720 Maiduguri
+2721 Ilorin
+2722 El Embrujo
+2723 Tolagnaro
+2724 Belo sur Tsiribihina Airport
+2725 John A. Osborne Airport
+2726 Pechora
+2727 Östersund Airport
+2728 Canaima
+2729 Hagerstown Regional Richard A Henson Field
+2730 Kijang
+2731 Castlegar
+2732 Nanaimo
+2733 Sheikh Zayed
+2734 Aqaba King Hussein Intl
+2735 Grand Canyon National Park Airport
+2736 Licenciado Y Gen Ignacio Lopez Rayon
+2737 Bemidji Regional Airport
+2738 Kunsan Air Base
+2739 Lebanon Municipal Airport
+2740 Provincetown Muni
+2741 Dakhla Airport
+2742 Hana
+2743 Leon Airport
+2744 Mihail Kogalniceanu
+2745 St George Muni
+2746 Yellowstone Rgnl
+2747 U Taphao Intl
+2748 Luhansk International Airport
+2749 Lozuvatka International Airport
+2750 Zaporizhzhia International Airport
+2751 Bamaga Injinoo
+2752 Horn Island Airport
+2753 Rotuma Airport
+2754 Bonriki Intl
+2755 Dourados Airport
+2756 General leite de Castro Airport
+2757 Francisco De Assis
+2758 Aeroporto Prefeito Octavio de Almeida Neves
+2759 Caldas Novas
+2760 Chitral Airport
+2761 Gunnison - Crested Butte
+2762 Yampa Valley
+2763 Zhezkazgan Airport
+2764 Taraz
+2765 Petropavlosk South Airport
+2766 Kithira
+2767 Sanga Sanga Airport
+2768 Graciosa
+2769 Simao Airport
+2770 Dong Tac
+2771 Chu Lai
+2772 Phu Cat Airport
+2773 Dong Hoi
+2774 Whyalla Airport
+2775 Ceduna Airport
+2776 Coober Pedy Airport
+2777 Port Augusta Airport
+2778 Olympic Dam Airport
+2779 Kingscote Airport
+2780 Masterton
+2781 Kaitaia
+2782 Kerikeri
+2783 Whakatane
+2784 Paraparaumu
+2785 Cheboksary Airport
+2786 Saransk Airport
+2787 Nueva Loja Airport
+2788 Teniente Coronel Luis A Mantilla
+2789 Coronel E Carvajal
+2790 Saga Airport
+2791 Easterwood Fld
+2792 Tyler Pounds Rgnl
+2793 Brownsville South Padre Island Intl
+2794 Lake Charles Rgnl
+2795 Hokitika
+2796 Gamal Abdel Nasser Airport
+2797 Alpena County Regional Airport
+2798 Narathiwat
+2799 Chumphon
+2800 Buri Ram
+2801 Sakon Nakhon
+2802 Roi Et
+2803 Ranong
+2804 Loei
+2805 Phrae
+2806 Imperial Co
+2807 Debrecen
+2808 Bobo Dioulasso
+2809 Chimoio Airport
+2810 Craiova
+2811 Agra
+2812 Fort Smith Rgnl
+2813 Sharurah
+2814 Al-Jawf Domestic Airport
+2815 Qaisumah
+2816 Dawadmi Domestic Airport
+2817 Arar
+2818 Guriat
+2819 Al Ahsa
+2820 Khovd Airport
+2821 Olgii Airport
+2822 Chaoyang Airport
+2823 Kronoberg
+2824 Eugenio Maria De Hostos
+2825 Pyongyang Intl
+2826 San Sebastian
+2827 Champaign
+2828 Manhattan Reigonal
+2829 Columbia Rgnl
+2830 Tongren
+2831 Crotone
+2832 Matsumoto
+2833 La Florida
+2834 Pitt-Greenville Airport
+2835 Florence Rgnl
+2836 Termez Airport
+2837 Meixian Airport
+2838 Kangra Airport
+2839 Gorakhpur Airport
+2840 La Nubia
+2841 Villa Garzon Airport
+2842 La Macarena
+2843 Yariguies
+2844 Las Brujas
+2845 Guillermo Leon Valencia
+2846 San Luis
+2847 Golmud Airport
+2848 Melbourne Intl
+2849 Daytona Beach Intl
+2850 Southeast Iowa Regional Airport
+2851 Decatur
+2852 Alta Floresta
+2853 Kemi Tornio
+2854 Savonlinna
+2855 Rovaniemi
+2856 Pori
+2857 Mariehamn
+2858 Kruunupyy
+2859 Tartu
+2860 Kungsangen
+2861 Kajaani
+2862 Stockton Metropolitan
+2863 Barcaldine Airport
+2864 Blackall
+2865 Pomalaa
+2866 Kasiguncu
+2867 Noshahr Airport
+2868 Shahre Kord Airport
+2869 Mazar I Sharif
+2870 Hubli Airport
+2871 Naha
+2872 Bhuj
+2873 Bhavnagar
+2874 Diu Airport
+2875 Tunoshna
+2876 Beslan Airport
+2877 Liping Airport
+2878 Redencao Airport
+2879 Tianyang
+2880 Changzhoudao Airport
+2881 Mirny
+2882 Gloucestershire
+2883 False Pass Airport
+2884 King Cove Airport
+2885 Nelson Lagoon
+2886 Agri Airport
+2887 Greenbrier Valley Airport
+2888 South Bimini
+2889 Sawyer International Airport
+2890 Sultan Azlan Shah
+2891 Yuma Mcas Yuma Intl
+2892 Alderney
+2893 Hua Hin
+2894 Pulau Pangkor Airport
+2895 Boone Co
+2896 Surkhet
+2897 Simara
+2898 Lleida-Alguaire Airport
+2899 Klamath Falls Airport
+2900 Southwest Oregon Regional Airport
+2901 Bassillac
+2902 McArthur River Mine Airport
+2903 Mc Kellar Sipes Rgnl
+2904 Northern Maine Rgnl At Presque Isle
+2905 Kardla
+2906 Roros
+2907 Sveg
+2908 Enshi Airport
+2909 Cap Haitien Intl
+2910 Santa Rosa Airport
+2911 Middle Georgia Rgnl
+2912 Forde Bringeland
+2913 Balikesir Korfez Airport
+2914 Kahramanmaras Airport
+2915 Kapadokya
+2916 Merzifon
+2917 Cardak
+2918 Tanjung Manis Airport
+2919 Williamsport Rgnl
+2920 Tweed-New Haven Airport
+2921 Veliky Ustyug
+2922 Skelleftea
+2923 Mendeleevo
+2924 Okha Airport
+2925 Burevestnik Airport
+2926 Karamay Airport
+2927 Armidale
+2928 Cobar Airport
+2929 Lismore Airport
+2930 Moree Airport
+2931 Mount Hotham Airport
+2932 Cooma Snowy Mountains Airport
+2933 Narrabri Airport
+2934 Massawa Intl
+2935 Oudomxay
+2936 Luang Namtha
+2937 Xieng Khouang
+2938 Tancredo Thomaz de Faria Airport
+2939 Canal Bajo Carlos Hott Siebert
+2940 Mayaguana
+2941 Matthew Town
+2942 Luena
+2943 Mbanza Congo
+2944 Paraburdoo Airport
+2945 Angers-Loire Airport
+2946 Sugraly Airport
+2947 Stephenville
+2948 Tucurui
+2949 Breves Airport
+2950 Wick
+2951 Hierro
+2952 Pedro Canga
+2953 Comandante Fap German Arias Graziani
+2954 NAYPYITAW
+2955 Cherskiy Airport
+2956 Poliarny Airport
+2957 Tiksi Airport
+2958 Chokurdakh Airport
+2959 Deurne
+2960 Chipata Airport
+2961 Mfuwe
+2962 Mercedita
+2963 Lann Bihoue
+2964 Mersa Matruh
+2965 Moshoeshoe I Intl
+2966 J M Nkomo Intl
+2967 Polokwane International
+2968 Richards Bay
+2969 Matsapha
+2970 Mthatha
+2971 Phalaborwa
+2972 Pietermaritzburg
+2973 Oradea
+2974 Satu Mare
+2975 Stefan Cel Mare
+2976 Tautii Magheraus
+2977 Ivano Frankivsk International Airport
+2978 Gunsa
+2979 Praslin
+2980 Saint Cloud Regional Airport
+2981 Karlstad Airport
+2982 Skiros
+2983 Fengnin
+2984 Hermanos Ameijeiras
+2985 Rafael Cabrera
+2986 Mariana Grajales
+2987 Dr Antonio Nicolas Briceno
+2988 San Tome
+2989 Jose Leonardo Chirinos
+2990 Casique Aramare
+2991 Hrodno Airport
+2992 Brest
+2993 Gomel
+2994 Chapada Diamantina Airport
+2995 Bom Jesus Da Lapa
+2996 Magdeburg-Cochstedt
+2997 Scott Afb Midamerica
+2998 Rickenbacker Intl
+2999 Gary Chicago International Airport
+3000 Devonport Airport
+3001 Luderitz Airport
+3002 Donegal Airport
+3003 Wenshan Airport
+3004 Lincang Airport
+3005 Zhaotong Airport
+3006 Baoshan Airport
+3007 Ogle
+3008 Arusha
+3009 Mtwara
+3010 Salak
+3011 Garoua
+3012 Monbetsu
+3013 Izumo
+3014 Tottori
+3015 Hachijojima
+3016 Shonai Airport
+3017 Oshima
+3018 Noto
+3019 Odate Noshiro Airport
+3020 Nanki Shirahama
+3021 Miyakejima Airport
+3022 Panjgur
+3023 Manston
+3024 Pai
+3025 Arua Airport
+3026 Plovdiv
+3027 Cherif El Idrissi
+3028 Sidi Mahdi
+3029 Jijel
+3030 Ghriss
+3031 Guemar Airport
+3032 Laghouat
+3033 Cheikh Larbi Tebessi
+3034 Asosa
+3035 Arba Minch
+3036 Bahir Dar
+3037 Talavera La Real
+3038 Yakubu Gowon
+3039 Kaduna
+3040 Osijek
+3041 Tainan
+3042 Lahad Datu
+3043 Ataq
+3044 Bolzano
+3045 Kassel Calden
+3046 Qamdo Bangda Airport
+3047 Shigatse Peace Airport
+3048 Nyingchi Airport
+3049 Panzhihua
+3050 Sunyani
+3051 Kidlington
+3052 Yongzhou Lingling Airport
+3053 Camiguin Airport
+3054 Salamanca
+3055 Mackenzie Airport
+3056 Muhammad Salahuddin
+3057 Plaine Corail
+3058 Virac Airport
+3059 Cauayan Airport
+3060 Antique
+3061 Malikus Saleh Airport
+3062 Binaka
+3063 Mundo Maya International
+3064 Waterford
+3065 Kangding Airport
+3066 Minatitlan
+3067 Chetumal Intl
+3068 Lencero Airport
+3069 Quetzalcoatl Intl
+3070 General Pedro Jose Mendez Intl
+3071 Tapachula Intl
+3072 Lazaro Cardenas
+3073 Powell River Airport
+3074 Sandspit
+3075 Masset Airport
+3076 Trail Airport
+3077 Penticton
+3078 Massena Intl Richards Fld
+3079 Ogdensburg Intl
+3080 Longyan Airport
+3081 Hanimaadhoo Airport
+3082 Gardabya Airport
+3083 Ubari Airport
+3084 Ghat
+3085 Ghadames East
+3086 Vinnitsa
+3087 Pevek
+3088 El Fashir
+3089 Juancho E. Yrausquin
+3090 Aberdeen Regional Airport
+3091 Fort Dodge Rgnl
+3092 Chisholm Hibbing
+3093 Mason City Municipal
+3094 Gogebic Iron County Airport
+3095 Roskilde
+3096 Wonju Airport
+3097 Magic Valley Regional Airport
+3098 Cedar City Rgnl
+3099 Yellowstone Airport
+3100 Bert Mooney Airport
+3101 Pocatello Regional Airport
+3102 Elko Regional Airport
+3103 Waimea Kohala
+3104 Medicine Hat
+3105 Lethbridge
+3106 Lloydminster
+3107 Bodaibo
+3108 Shillong Airport
+3109 Pangborn Field
+3110 Walla Walla Regional Airport
+3111 Yakima Air Terminal McAllister Field
+3112 Co Ong Airport
+3113 Ca Mau
+3114 Cortez Muni
+3115 San Luis Valley Regional Airport
+3116 Laramie Regional Airport
+3117 Telluride
+3118 Four Corners Rgnl
+3119 Kearney Municipal Airport
+3120 Vernal Regional Airport
+3121 Riverton Regional
+3122 Sheridan County Airport
+3123 Kokshetau Airport
+3124 Kufra
+3125 Southeast Texas Rgnl
+3126 Roswell Intl Air Center
+3127 Waco Rgnl
+3128 Joplin Rgnl
+3129 Abilene Rgnl
+3130 Sheppard Afb Wichita Falls Muni
+3131 East Texas Rgnl
+3132 Texarkana Rgnl Webb Fld
+3133 Lawton-Fort Sill Regional Airport
+3134 Garden City Rgnl
+3135 San Angelo Rgnl Mathis Fld
+3136 Gilgit
+3137 Skardu Airport
+3138 Rota Intl
+3139 Rishiri
+3140 Nis
+3141 Pago Pago Intl
+3142 Bathurst Airport
+3143 Dien Bien Phu Airport
+3144 Bijie Feixiong Airport
+3145 Foshan
+3146 Rafha
+3147 Turaif
+3148 Prince Abdul Majeed Airport
+3149 Los Alamos Airport
+3150 Cavern City Air Terminal
+3151 Uzhhorod International Airport
+3152 Igarka Airport
+3153 Ulyanovsk East Airport
+3154 Petrozavodsk Airport
+3155 Penza Airport
+3156 Kirovsk-Apatity Airport
+3157 Qabala Airport
+3158 Gorno-Altaysk Airport
+3159 Elista Airport
+3160 Ugolny Airport
+3161 Orsk Airport
+3162 Victoria Regional Airport
+3163 Lea Co Rgnl
+3164 Jonesboro Muni
+3165 Williamson Country Regional Airport
+3166 Cape Girardeau Regional Airport
+3167 Quincy Regional Baldwin Field
+3168 Waynesville Rgnl Arpt At Forney Fld
+3169 Kirksville Regional Airport
+3170 Shah Mokhdum
+3171 Tekirdağ Çorlu Airport
+3172 Lynchburg Regional Preston Glenn Field
+3173 Mid-Ohio Valley Regional Airport
+3174 Chernivtsi International Airport
+3175 Kamembe
+3176 Naples Muni
+3177 Ludhiana
+3178 Kanpur
+3179 Wejh
+3180 La Gomera Airport
+3181 Kuusamo
+3182 Kuopio
+3183 Ivalo
+3184 Joensuu
+3185 Pondicherry
+3186 Mysore Airport
+3187 Belgaum
+3188 Southwest Georgia Regional Airport
+3189 Key Field
+3190 Brunswick Golden Isles Airport
+3191 Dothan Rgnl
+3192 Northwest Alabama Regional Airport
+3193 Hattiesburg Laurel Regional Airport
+3194 Golden Triangle Regional Airport
+3195 Valdosta Regional Airport
+3196 Columbus Metropolitan Airport
+3197 Visalia Municipal Airport
+3198 Inyokern Airport
+3199 McClellan-Palomar Airport
+3200 Merced Municipal Airport
+3201 Dundee
+3202 St Gatien
+3203 Jamnagar
+3204 Nanded Airport
+3205 Ziguinchor
+3206 Chippewa County International Airport
+3207 Pellston Regional Airport of Emmet County Airport
+3208 Delta County Airport
+3209 Eastern Oregon Regional Airport
+3210 General Mariano Matamoros
+3211 Sioux Gateway Col Bud Day Fld
+3212 Dubuque Rgnl
+3213 Chippewa Valley Regional Airport
+3214 Muskegon County Airport
+3215 Watertown Intl
+3216 Houghton County Memorial Airport
+3217 Waterloo Regional Airport
+3218 Barkley Regional Airport
+3219 Khasab
+3220 Raleigh County Memorial Airport
+3221 Shenandoah Valley Regional Airport
+3222 Lancaster Airport
+3223 Chris Hadfield
+3224 Kingston
+3225 Adirondack Regional Airport
+3226 Knox County Regional Airport
+3227 Rutland State Airport
+3228 Augusta State
+3229 Kuressaare
+3230 Grant County Airport
+3231 Flagstaff Pulliam Airport
+3232 Show Low Regional Airport
+3233 Sorstokken
+3234 Leirin
+3235 Bardufoss
+3236 Ornskoldsvik
+3237 Gallivare
+3238 Kiruna
+3239 Redding Muni
+3240 Chico Muni
+3241 Modesto City Co Harry Sham
+3242 Geiteryggen
+3243 Trat
+3244 Khon Kaen
+3245 Lampang
+3246 Sukhothai
+3247 Adiyaman Airport
+3248 Isparta Süleyman Demirel Airport
+3249 Nakhchivan Airport
+3250 Sihanoukville
+3251 Gyumri
+3252 Aurillac
+3253 Lannion
+3254 Loudes
+3255 Manistee County-Blacker Airport
+3256 Salina Municipal Airport
+3257 Agatti
+3258 Ouarzazate
+3259 Tacheng Airport
+3260 Ioannina
+3261 Aristotelis
+3262 Milos
+3263 Filippos
+3264 Syros Airport
+3265 Naxos
+3266 Paros
+3267 Cambridge
+3268 Jonkoping
+3269 Athens Ben Epps Airport
+3270 Barra Airport
+3271 Campbeltown Airport
+3272 Islay
+3273 Tiree
+3274 Brac
+3275 Nefta
+3276 Arad
+3277 Yushu Batang
+3278 Logroño-Agoncillo Airport
+3279 Sármellék International Airport
+3280 Ohrid
+3281 Yangyang International Airport
+3282 Mirecourt
+3283 Monaco
+3284 Karup
+3285 Sonderborg
+3286 Bornholm Ronne
+3287 Saab
+3288 Longvic
+3289 Anadolu Airport
+3290 Banja Luka International Airport
+3291 Taba Intl
+3292 Kastelorizo
+3293 Burgos Airport
+3294 Tianshui Airport
+3295 Caransebes
+3296 Vallee De Seine
+3297 Pembroke Airport
+3298 Maupertus
+3299 Suffield Heliport
+3300 Cooinda
+3301 Treuchtlingen BF
+3302 Bricy
+3303 Brenoux
+3304 La Coloma
+3305 Le Pontreau
+3306 Grand Geneva Resort Airport
+3307 Entrammes
+3308 Jabiru
+3309 Le Bourget
+3310 Quonset State Airport
+3311 Aeroporto Blumenau
+3312 Tyonek Airport
+3313 Norwood Memorial Airport
+3314 Toussus Le Noble
+3315 Octeville
+3316 Plymouth Municipal Airport
+3317 Mansfield Municipal
+3318 Barnes Municipal
+3319 Cormeilles En Vexin
+3320 Regensburg HBF
+3321 Barberey
+3322 Fourchambault
+3323 Creil
+3324 Balikesir
+3325 Herrera International Airport
+3326 Waterbury-Oxford Airport
+3327 Stafsberg Airport
+3328 Reao
+3329 Ferry County Airport
+3330 Montbeugny
+3331 Suwannee County Airport
+3332 Anaa
+3333 Yuba County Airport
+3334 Stockholm Cruise Port
+3335 Helsingborg Cruise Port
+3336 Halliburton Field Airport
+3337 Centre-Piedmont-Cherokee County Regional Airport
+3338 Maitland Airport
+3339 Cartersville Airport
+3340 Tabiteuea North
+3341 Vavau Intl
+3342 Chinle Municipal Airport
+3343 Fitchburg Municipal Airport
+3344 Easton-Newnam Field Airport
+3345 Tarare
+3346 New Century AirCenter Airport
+3347 Chkalovsky Airport
+3348 Knoxville Downtown Island Airport
+3349 La Teste De Buch
+3350 Le Sequestre
+3351 Heidelberg
+3352 Northeast Alabama Regional Airport
+3353 Burlington-Alamance Regional Airport
+3354 Richard B Russell Airport
+3355 Medis
+3356 Paradise Island Seaplane Base
+3357 Purude University Airport
+3358 St Agnant
+3359 Houssen
+3360 Ardeche Meridionale
+3361 Berlin Brandenburg Willy Brandt
+3362 Puka Puka
+3363 Ceyzeriat
+3364 Garner Field
+3365 Lewis University Airport
+3366 Windham Airport
+3367 Frasca Field
+3368 Oshawa Airport
+3369 San Andros
+3370 Miami Seaplane Base
+3371 Lahr Airport
+3372 Charmeil
+3373 Deols
+3374 Bron
+3375 Aix Les Milles
+3376 Mandelieu
+3377 Danbury Municipal Airport
+3378 Fresh Creek
+3379 Marshfield Municipal Airport
+3380 Springfield-Beckly Municipal Airport
+3381 Sun Island Airport
+3382 Capital City Airport
+3383 Orange County Airport
+3384 Le Castellet
+3385 Domerat
+3386 Chub Cay
+3387 De Kalb Taylor Municipal Airport
+3388 Champforgeuil
+3389 Solenzara
+3390 Branches
+3391 Buchanan Field Airport
+3392 Key Largo
+3393 Aix Les Bains
+3394 Lawrence Municipal Airport
+3395 Bourges
+3396 Ustupo
+3397 El Porvenir
+3398 Annemasse
+3399 Boire Field Airport
+3400 Charnay
+3401 Mamitupo
+3402 Renaison
+3403 Meythet
+3404 Saint Geoirs
+3405 Chabeuil
+3406 Nogales Intl
+3407 Granville
+3408 Tela
+3409 Madera Municipal Airport
+3410 Whiteman Airport
+3411 Albenga
+3412 Revelstoke Airport
+3413 Tula
+3414 Hondo Municipal Airport
+3415 Silver Springs Airport
+3416 Meribel Airport
+3417 Black Tickle Airport
+3418 Coban
+3419 McKinley National Park Airport
+3420 Lake Hood Seaplane Base
+3421 Prospect Creek Airport
+3422 Khwai River Lodge
+3423 Piacenza
+3424 Shoestring Aviation Airfield
+3425 Aviano Ab
+3426 Maria Montez Intl
+3427 Decatur County Industrial Air Park
+3428 Arroyo Barril Intl
+3429 Forli
+3430 Mostar
+3431 Montichiari
+3432 Montgomery County Airpark
+3433 Golden Airport
+3434 Vicenza
+3435 Mountain Home Municipal Airport
+3436 Frankfurt-Main Hauptbahnhof
+3437 Capurgana Airport
+3438 Etimesgut
+3439 Laduani Airstrip
+3440 Cayana Airstrip
+3441 Praha hlavni nadrazi
+3442 Saint-Laurent-du-Maroni Airport
+3443 Sigonella
+3444 Afyon
+3445 Maripasoula Airport
+3446 St Pancras Railway Station
+3447 Decimomannu
+3448 Ulusaba Airstrip
+3449 Hector Silva Airstrip
+3450 Charlevoix Municipal Airport
+3451 Del Norte Intl
+3452 RADOM
+3453 Tinson Pen
+3454 Ken Jones
+3455 Deer Valley Municipal Airport
+3456 Calgary Springbank Airport
+3457 Boscobel
+3458 Tortoli
+3459 Angers St Laud
+3460 Taichung Airport
+3461 Rivera International Airport
+3462 Samsun 
+3463 Ye
+3464 Prerov
+3465 Aeroclub Cluj
+3466 Aeroclub Deva
+3467 Kingston Train Station
+3468 Sharona
+3469 Flagler County Airport
+3470 Imsik
+3471 Bandanaira Airport
+3472 Teyman
+3473 Zona da Mata Regional Airport
+3474 Haifa
+3475 Dorval Railway Station
+3476 Mahanaim I Ben Yaakov
+3477 Ovda
+3478 Aransas County Airport
+3479 Cigli
+3480 Dubai Al Maktoum
+3481 Cornwall Regional Airport
+3482 Furnace Creek
+3483 Big Bay Water Aerodrome
+3484 Westsound Seaplane Base
+3485 Blakely Island Airport
+3486 Vila Real
+3487 Morrisville Stowe State Airport
+3488 North Caicos
+3489 Portoroz
+3490 Clow International Airport
+3491 Padova
+3492 Megeve Airport
+3493 Mulatupo Airport
+3494 Tatry
+3495 Ampugnano
+3496 Sliac
+3497 Tubuala Airport
+3498 Piestany
+3499 Columbia County
+3500 Atmautluak Airport
+3501 Block Island State Airport
+3502 Latina
+3503 Westerly State Airport
+3504 MOW
+3505 Welke Airport
+3506 Wheeling Ohio County Airport
+3507 Grosseto
+3508 Fitzgerald Municipal Airport
+3509 Perry-Foley Airport
+3510 Dallas Executive Airport
+3511 Maribor
+3512 Cairo-Grady County Airport
+3513 Henry Tift Myers Airport
+3514 Lecce
+3515 Jaime Gonzalez
+3516 Armor
+3517 Ploujean
+3518 Train Station
+3519 Train Station
+3520 Train Station
+3521 Train Station
+3522 Meucon
+3523 Portland Troutdale
+3524 Montoir
+3525 Sentral
+3526 Tamuin
+3527 Ormond Beach municipal Airport
+3528 Train Station
+3529 Train Station
+3530 Wilmington Airborne Airpark
+3531 Marana Regional
+3532 St Lucie County International Airport
+3533 Tlaxcala
+3534 Frescaty
+3535 Casa Grande Municipal Airport
+3536 Sion
+3537 Essey
+3538 Champagne
+3539 Douglas Municipal Airport
+3540 Zamora
+3541 Kerch Intl
+3542 Gila Bend Municipal Airport
+3543 Alexandria
+3544 Maximo Gomez
+3545 Hastings Airport
+3546 Philip Billard Muni
+3547 Emporia Municipal Airport
+3548 Wurzburg HBF
+3549 Cataloi
+3550 Les Ajoncs
+3551 Limon Intl
+3552 Collin County Regional Airport at Mc Kinney
+3553 Chicago Executive
+3554 Coto 47
+3555 North Las Vegas Airport
+3556 Kelso Longview
+3557 Arnage
+3558 Put-in-Bay Airport
+3559 Portland Hillsboro
+3560 Howard
+3561 Taunton Municipal Airport - King Field
+3562 Jefferson County Intl
+3563 Lynden Airport
+3564 Puerto Cabezas
+3565 Jefferson County Intl
+3566 Bluefields
+3567 Buckeye Municipal Airport
+3568 Miquelon
+3569 Grottaglie
+3570 Apalachicola Regional Airport
+3571 Confresa Airport
+3572 Aurel Vlaicu
+3573 Concordia Airport
+3574 Ashford
+3575 Ingolstadt BF
+3576 Carauari Airport
+3577 Isla Mujeres
+3578 Thomasville Regional Airport
+3579 Braganca
+3580 Tehuacan
+3581 General Jose Maria Yanez Intl
+3582 St. Peter-Ording Airport
+3583 Mokuti Lodge Airport
+3584 Sao Felix do Xingu Airport
+3585 Door County Cherryland Airport
+3586 Samedan
+3587 Henderson Executive Airport
+3588 Ensenada
+3589 Eskisehir
+3590 Gostomel Antonov
+3591 Kenosha Regional Airport
+3592 Okaukuejo Airport
+3593 Gino Lisa
+3594 Jackson County Airport
+3595 FOB Salerno
+3596 McMinn Co
+3597 Orlando de Carvalho Airport
+3598 Andravida
+3599 Agrinion
+3600 Ingeniero Juan Guillermo Villasana
+3601 Aeroclub Sibiu
+3602 Sterling Municipal Airport
+3603 Quincy Municipal Airport
+3604 Rawlins Municipal Airport-Harvey Field
+3605 Singita Sabi Sands
+3606 Bandirma
+3607 Caldwell Essex County Airport
+3608 Londolozi
+3609 St. Augustine Airport
+3610 Telfer Airport
+3611 Una-Comandatuba Airport
+3612 Monclova Intl
+3613 Lee C Fine Memorial Airport
+3614 Aeroclub Cioca
+3615 Big Bear City
+3616 KIEV  INTERNATIONAL AIRPORT
+3617 Crisp County Cordele Airport
+3618 Larisa
+3619 Bamberg BF
+3620 Diamantina Airport
+3621 Tsumeb Airport
+3622 Regional Airport
+3623 Brie Champniers
+3624 Mikkeli
+3625 Schwerin Parchim
+3626 Amherst Amtrak Station AMM
+3627 Oberpfaffenhofen
+3628 Augsburg
+3629 London - Kings Cross
+3630 Stevenage Railway Station
+3631 Monchengladbach
+3632 Essen Mulheim
+3633 Arnsberg Menden
+3634 Kiel Holtenau
+3635 Hamburg Finkenwerder
+3636 Mannheim City
+3637 Peterborough Railway Station
+3638 Whittlesford Parkway Rail Station
+3639 Fond Du Lac County Airport
+3640 Waupaca Municipal Airport
+3641 Stevens Point Municipal Airport
+3642 Luce County Airport
+3643 Forest Lake Airport
+3644 Stendal Borstel
+3645 Bayreuth
+3646 Hof Plauen
+3647 Flensburg Schaferhaus
+3648 Jyvaskyla
+3649 Hyvinkaa
+3650 Atlantic City Rail Terminal
+3651 Helsinki Malmi
+3652 Halli
+3653 Enontekio
+3654 Springfield Amtrak Station
+3655 Parnu
+3656 Norderney
+3657 Koblenz Winningen
+3658 Borkum
+3659 Wilhelmshaven Mariensiel
+3660 Emden
+3661 Bremerhaven
+3662 Braunschweig Wolfsburg
+3663 Donaueschingen Villingen
+3664 Speyer
+3665 Trier Fohren
+3666 Hannover Messe-Heliport
+3667 Tempelhof
+3668 Peenemunde Airfield
+3669 Yamoussoukro
+3670 Maradi
+3671 Zaria
+3672 Lake Placid Airport
+3673 Minna New
+3674 Long Lake
+3675 Makurdi
+3676 Gusau
+3677 Akure
+3678 San Pedro
+3679 Tahoua
+3680 Man
+3681 Korhogo
+3682 Daloa
+3683 Bouake
+3684 Wishram Amtrak Station
+3685 Lima Allen County Airport
+3686 Sondok Airport
+3687 Samjiyon Airport
+3688 Zaqatala International Airport
+3689 Manu Dayak
+3690 Galion Municipal Airport
+3691 Wevelgem
+3692 Tiputini
+3693 Shell Mera
+3694 Clarksville-Montgomery County Regional Airport
+3695 Barth
+3696 Putnam County Airport
+3697 Altenburg Nobitz
+3698 Bautzen
+3699 Oostende
+3700 Liege-Guillemins Railway Station
+3701 Zinder
+3702 Wyk auf Foehr
+3703 Lompoc Airport
+3704 Niamtougou International
+3705 Chester County G O Carlson Airport
+3706 El Borma
+3707 Bost Airport
+3708 Gabes
+3709 Gafsa
+3710 Kauhava
+3711 Sodankyla
+3712 Barrow County Airport
+3713 Bekily
+3714 Marham
+3715 Waddington
+3716 Honington
+3717 Coningsby
+3718 Northolt
+3719 Odiham
+3720 Brize Norton
+3721 Fairford
+3722 Mildenhall
+3723 Bristol Filton
+3724 Gladwin Zettel Memorial Airport
+3725 Lowell City Airport
+3726 South Haven Area Regional Airport
+3727 Lossiemouth
+3728 Leuchars
+3729 Schaumburg Regional
+3730 Scatsta
+3731 Marshfield Municipal Airport
+3732 Alexander Field South Wood County Airport
+3733 Garland Airport
+3734 Drummond Island Airport
+3735 Marco Islands
+3736 Lewiston Maine
+3737 Branch County Memorial Airport
+3738 Thisted
+3739 Skrydstrup
+3740 Odense
+3741 Wilkes-Barre Wyoming Valley Airport
+3742 Lost Nation Municipal Airport
+3743 Sligo
+3744 Capital City Airport
+3745 Galway
+3746 Naval Air Station
+3747 Florence
+3748 Woensdrecht
+3749 Valkenburg
+3750 Twenthe
+3751 Soesterberg
+3752 Martin Campbell Field Airport
+3753 Leeuwarden
+3754 De Kooy
+3755 Clinton Municipal
+3756 Beverly Municipal Airport
+3757 Oakdale Airport
+3758 Lyneham
+3759 Ocean Ridge Airport
+3760 Plymouth
+3761 Kent State Airport
+3762 Garissa
+3763 Hola
+3764 Swansea
+3765 Kalokol
+3766 Yeovilton
+3767 Kericho
+3768 Lasham
+3769 Kilaguni
+3770 Coventry
+3771 Kerio Valley
+3772 Andavadoaka
+3773 St Angelo
+3774 Antsirabe
+3775 Varkaus
+3776 Utti
+3777 Alldays Airport
+3778 Reeroe Airport
+3779 Trois Rivieres Airport
+3780 Carlisle
+3781 Poplar Bluff Municipal Airport
+3782 Eastport Municipal Airport
+3783 Keokuk Municipal Airport
+3784 Banks Airport
+3785 Hawarden
+3786 Perth Scone Airport
+3787 Walney Island
+3788 Soderhamn Airport
+3789 Lydd
+3790 Bantry Aerodrome
+3791 Saravane Airport
+3792 Bagdad Airport
+3793 Blackbushe
+3794 Farnborough
+3795 Dikson Airport
+3796 Bogande Airport
+3797 Biggin Hill
+3798 Shoreham
+3799 McKinnon Airport
+3800 Beaver Falls
+3801 Timimoun
+3802 Seaplane Base
+3803 Kindersley
+3804 Pecos Municipal Airport
+3805 St Jean
+3806 Hattiesburg Bobby L. Chain Municipal Airport
+3807 Atikokan Muni
+3808 Botucatu
+3809 Sao Carlos TAM
+3810 Chan Gurney
+3811 Selfield Airport
+3812 Playa del Carmen Airport
+3813 Kratie Airport
+3814 Guyuan
+3815 Hudson Bay
+3816 Changhai
+3817 Redhill Aerodrome
+3818 Chinchilla
+3819 Fort Resolution
+3820 Frazier Lake Airpark
+3821 Hayward Executive Airport
+3822 Buttonville Muni
+3823 Chapleau
+3824 Meadow Lake
+3825 Old Crow
+3826 Iowa City Municipal Airport
+3827 Turpan
+3828 Southport
+3829 Peace River
+3830 Prince Albert Glass Field
+3831 Windom Municipal Airport
+3832 Lee Airport
+3833 Cold Lake
+3834 Matagami
+3835 Alert
+3836 Gatineau
+3837 Ndutu
+3838 Montreal Intl Mirabel
+3839 Maniwaki
+3840 Cuamba
+3841 Moose Jaw Air Vice Marshal C M Mcewen
+3842 Mayo
+3843 Zhytomyr
+3844 Motueka
+3845 Eureka
+3846 Edson
+3847 Belmont Airport
+3848 Siglufjordur
+3849 Boston Back Bay Station
+3850 Patreksfjordur
+3851 Yelahanka AFB
+3852 Ulithi
+3853 Husavik
+3854 Hornafjordur
+3855 Balkanabat
+3856 Clayton County Tara Field
+3857 Velikiye Luki
+3858 Brampton Island
+3859 NAS Alameda
+3860 Wilmington Amtrak Station
+3861 Fort McMurray - Mildred Lake Airport
+3862 Elkhart Municipal
+3863 Cochrane
+3864 Aeroporto Estadual Arthur Siqueira
+3865 Garowe - International
+3866 Vestmannaeyjar
+3867 Winnipeg St Andrews
+3868 Estevan
+3869 Temora
+3870 Shute Harbour
+3871 Ann Arbor Municipal Airport
+3872 Dauphin Barker
+3873 Dease Lake
+3874 Shepparton
+3875 Princeton
+3876 Burwash
+3877 Dawson City
+3878 Gayndah
+3879 Shearwater
+3880 Chilliwack
+3881 Coronation
+3882 Popondetta
+3883 Miramichi
+3884 Wilcannia
+3885 Brandon Muni
+3886 Kugaaruk
+3887 Tofino
+3888 Peterborough
+3889 Muskoka
+3890 Watson Lake
+3891 Hamburg Hbf
+3892 Slave Lake
+3893 Heber City Municipal Airport
+3894 Gore Bay Manitoulin
+3895 Downsview
+3896 Beech Factory Airport
+3897 Cherokee County Airport
+3898 Armstrong
+3899 Fernandina Beach Municipal Airport
+3900 Georgetown Municipal Airport
+3901 Whitecourt
+3902 Swift Current
+3903 Duxford Aerodrome
+3904 Sidney Muni Airport
+3905 Eagle's Nest Airport
+3906 Great Keppel Island
+3907 Roper Bar
+3908 Innisfail
+3909 Bamyan Airport
+3910 Clemson
+3911 Cross City
+3912 Moomba
+3913 Hassi R Mel
+3914 Georgetown County Airport
+3915 El Golea
+3916 Hardwick Field Airport
+3917 Mark Anton Airport
+3918 Jefferson County Airpark
+3919 Tafaraoui
+3920 Ech Cheliff
+3921 Bou Chekif
+3922 Renton
+3923 Teslin
+3924 Bromont Airport
+3925 Brackett Field
+3926 Jekyll Island Airport
+3927 Boufarik
+3928 CedarKey
+3929 Fort Mcpherson
+3930 Faro
+3931 Greenwood
+3932 Chongjin Airport
+3933 Timiskaming Rgnl
+3934 Keetmanshoop
+3935 Pecs
+3936 Trenton
+3937 Phoenix Regional Airport
+3938 Wickenburg Municipal Airport
+3939 Oakland Co. Intl
+3940 Summerside
+3941 Nanisivik
+3942 Kissidougou
+3943 Sherbrooke
+3944 Dillant Hopkins Airport
+3945 Coolidge Municipal Airport
+3946 Rocky Mountain House
+3947 Riviere Du Loup
+3948 Rochester Airport
+3949 Albian Aerodrome
+3950 North Battleford
+3951 Yorkton Muni
+3952 Monroe Reqional Airport
+3953 Kankan
+3954 Cottonwood Airport
+3955 Mesa Falcon Field
+3956 Leesburg Executive Airport
+3957 Buffalo Narrows
+3958 Maamigili Airport
+3959 Hilton Iru fushi
+3960 Edmonton City Centre
+3961 Wrigley
+3962 Dhigurah Centara Grand Maldives
+3963 Losinj Airport
+3964 Petawawa
+3965 Wiarton
+3966 Onslow 
+3967 Palo Alto Airport of Santa Clara County
+3968 Theodore
+3969 RUDNIKI 
+3970 Williamson-Sodus Airport
+3971 Clear Lake Metroport
+3972 Vermilion
+3973 La Ronge
+3974 Gilberto Lavaque
+3975 Boulder Municipal
+3976 Stauning
+3977 Buochs Airport
+3978 Ramona Airport
+3979 Regional Airport
+3980 Saint Louis
+3981 Chemehuevi Valley
+3982 Kaolack
+3983 Cap Skiring
+3984 Flabob Airport
+3985 Saniat Rmel
+3986 Kenitra
+3987 Tacoma Narrows Airport
+3988 Tampa North Aero Park
+3989 Jack Edwards Airport
+3990 Bassatine
+3991 Moulay Ali Cherif
+3992 Vieste Heliport
+3993 Plage Blanche
+3994 Khmeinitskiy
+3995 Hiroshima-Nishi
+3996 Hazleton Municipal
+3997 Greater Cumberland Rgnl.
+3998 Bob Quinn Lake
+3999 Bakel
+4000 Kedougou
+4001 Tambacounda
+4002 Labe
+4003 London-Corbin Airport-MaGee Field
+4004 Fredericksburg Amtrak Station
+4005 Warsaw Modlin
+4006 Gimli Industrial Park Airport
+4007 John H. Batten Airport
+4008 Taytay Sandoval
+4009 Maio
+4010 Otaru
+4011 Faranah
+4012 Aioun El Atrouss
+4013 Fria
+4014 Atar
+4015 Selibady
+4016 Redlands Municipal Airport
+4017 Kaedi
+4018 Nema
+4019 Kiffa
+4020 Tidjikja
+4021 Fox Glacier Airstrip
+4022 Grabtsevo
+4023 Central Station
+4024 Hwange National Park
+4025 Kikwit
+4026 Bandundu
+4027 Muanda
+4028 Ndolo
+4029 Central
+4030 Mzuzu
+4031 Hauptbahnhof
+4032 Karonga
+4033 Gweru Thornhill
+4034 Gbadolite
+4035 Masvingo Intl
+4036 Kariba Intl
+4037 Centraal
+4038 Ellisras
+4039 Buffalo Range
+4040 Faya Largeau
+4041 Tri-County Regional Airport
+4042 Moundou
+4043 Mbandaka
+4044 Gemena
+4045 Central Station
+4046 Kamina Base
+4047 Centraal
+4048 Tombouctou
+4049 Ambodedjo
+4050 Kayes Dag Dag
+4051 Gao
+4052 Holesovice
+4053 Mbuji Mayi
+4054 Kananga
+4055 Kalemie
+4056 Lisala
+4057 Kolwezi
+4058 Hauptbahnhof
+4059 Kindu
+4060 Goma
+4061 Bukavu Kavumu
+4062 Bunia
+4063 Matari
+4064 Kisangani Simisini
+4065 Indianapolis Metropolitan Airport
+4066 South Cariboo Regional Airport
+4067 Kisimayu
+4068 Foothills Regional Airport
+4069 Harry Clever Field Airport
+4070 Darlington County Jetport
+4071 Hilton Head Airport
+4072 Gilmer County Airport
+4073 Elizabethton Municipal Airport
+4074 Moton Field Municipal Airport
+4075 Daniel Field Airport
+4076 Cordoba
+4077 Pike County Airport - Hatcher Field
+4078 Barwick Lafayette Airport
+4079 Toccoa RG Letourneau Field Airport
+4080 Poltava
+4081 Wau Airport
+4082 Moyale Airport
+4083 Yengema Airport
+4084 Gbangbatok Airport
+4085 Akrotiri
+4086 Tampa Executive Airport
+4087 Alexion
+4088 DeFuniak Springs Airport
+4089 East Troy Municipal Airport
+4090 LaGrange-Callaway Airport
+4091 Souche
+4092 Plantation Airpark
+4093 Chateaubernard
+4094 Dalton Municipal Airport
+4095 West Georgia Regional Airport - O V Gray Field
+4096 Le Touquet Paris Plage
+4097 Calais Dunkerque
+4098 Isbell Field Airport
+4099 Baldwin County Airport
+4100 Lee Gilmer Memorial Airport
+4101 Polk County Airport - Cornelius Moore Field
+4102 Vitoria
+4103 Harris County Airport
+4104 Torrejon
+4105 Seo De Urgel
+4106 Atlanta Regional Airport - Falcon Field
+4107 Covington Municipal Airport
+4108 Moron Ab
+4109 Fort Worth Alliance Airport
+4110 Montgomery Field
+4111 Dowagiac Municipal Airport
+4112 Shelby County Airport
+4113 Lawrence Municipal
+4114 Wellington Municipal
+4115 Griffin-Spalding County Airport
+4116 Nicosia International Airport
+4117 Pompano Beach Airpark
+4118 Mallacoota Airport
+4119 Cambridge Municipal Airport
+4120 Kitale
+4121 El Tor
+4122 Brantford
+4123 Yuendumu 
+4124 St Catherine Intl
+4125 Port Said
+4126 Gare de Strasbourg
+4127 El Gora
+4128 Guangzhou South Railway Station
+4129 Marmul
+4130 Alexandria Intl
+4131 Gisenyi
+4132 Dongola
+4133 Gorna Oryahovitsa
+4134 Hornepayne
+4135 Gimpo International Airpot
+4136 Renmark
+4137 Soroti
+4138 Dusseldorf Hauptbahnhof
+4139 Marathon
+4140 Rene Fontaine
+4141 Tanga
+4142 Pemba
+4143 Lake Manyara
+4144 Kassala
+4145 Kirkland Lake
+4146 Iringa
+4147 Dodoma
+4148 Manitouwadge
+4149 Wawa
+4150 Malakal
+4151 Manitoulin East
+4152 El Obeid
+4153 Abeche
+4154 Desroches
+4155 Bloyer Field
+4156 Illinois Valley Regional
+4157 Hanau Aaf
+4158 Celle
+4159 Giebelstadt Aaf
+4160 Ramstein Ab
+4161 Spangdahlem Ab
+4162 Spitfire Aerodrome
+4163 Gavle
+4164 Hultsfred
+4165 Borlange
+4166 Linden Airport
+4167 Morgantown Airport
+4168 Harford County Airport
+4169 Orebro
+4170 Tri-State Steuben County Airport
+4171 Plymouth Municipal Airport
+4172 Van Wert County Airport
+4173 Port Bucyrus-Crawford County Airport
+4174 Kramfors Solleftea
+4175 Hudiksvall
+4176 Geilenkirchen
+4177 Furstenfeldbruck
+4178 Gutersloh
+4179 Kleinsee
+4180 Pilanesberg Intl
+4181 Braceville Airport
+4182 Oudtshoorn
+4183 Newcastle
+4184 Messina
+4185 Margate
+4186 Ladysmith
+4187 Lorain County Regional Airport
+4188 Germack Airport
+4189 Alexander Bay
+4190 Burke Lakefront Airport
+4191 Grand Central
+4192 Chautauqua County-Dunkirk Airport
+4193 Hamburg Inc Airport
+4194 Trenton-Robbinsville Airport
+4195 South Jersey Regional Airport
+4196 Bhisho
+4197 Aggeneys
+4198 Lake Wales Municipal Airport
+4199 Oskarshamn
+4200 Landskrona
+4201 All Airports
+4202 All Airports
+4203 Orland
+4204 Notodden
+4205 All Airports
+4206 All Airports
+4207 Lista
+4208 Meigs Field
+4209 All Airports
+4210 All Airports
+4211 All Airports
+4212 All Airports
+4213 All Airports
+4214 All Airports
+4215 Pickens County Airport
+4216 Gesundbrunnen
+4217 Grand Strand Airport
+4218 Sun Moon Lake Airport
+4219 Lansing Municipal
+4220 Ostbahnhof
+4221 Gare de LEst
+4222 Kristianstad
+4223 Babimost
+4224 Brooks Field Airport
+4225 Mora
+4226 Karlskoga
+4227 Trollhattan Vanersborg
+4228 Skovde
+4229 Genesee County Airport
+4230 Lidkoping
+4231 Finger Lakes Regional Airport
+4232 Stormville Airport
+4233 Gare de Lyon
+4234 Robertson Field
+4235 Redzikowo
+4236 Williams County Airport
+4237 Clearwater Air Park
+4238 South Lakeland Airport
+4239 Scatsta Airport
+4240 Zoo
+4241 Frankfurt Oder Hbf
+4242 Queenstown
+4243 Springbok
+4244 Sishen
+4245 Morombe
+4246 Madison GA Municipal Airport
+4247 Porto Amboim
+4248 Negage
+4249 Coweta County Airport
+4250 McDuffie County Airport
+4251 Culebra Airport
+4252 Benguela
+4253 Municipal Airport
+4254 Mananjary
+4255 Uige
+4256 Manakara
+4257 Farafangana
+4258 Fianarantsoa
+4259 Ambalabe
+4260 Vohimarina
+4261 Woodward Field
+4262 Municipal Airport
+4263 Besalampy
+4264 Jesup-Wayne County Airport
+4265 Xangongo
+4266 Analalava
+4267 Municipal Airport
+4268 Reynolds Field
+4269 Wings Field
+4270 County
+4271 Regional - Hendricks AAF
+4272 Nacala
+4273 Mocimboa Da Praia
+4274 Executive
+4275 Gilbert Airport
+4276 Principe
+4277 Oyem
+4278 Mvengue
+4279 International Airport
+4280 Makokou
+4281 Omboue Hopital
+4282 Port Gentil
+4283 Bitam
+4284 Lambarene
+4285 Okondja
+4286 Ridgeland Airport
+4287 Moore County Airport
+4288 Skukuza
+4289 Pittsburgh-Monroeville Airport
+4290 Grove City Airport
+4291 Berberati
+4292 Lansdowne Airport
+4293 Wadsworth Municipal
+4294 Ouesso
+4295 Owando
+4296 Ashland County Airport
+4297 Selebi Phikwe
+4298 Somerset County Airport
+4299 Tiko
+4300 Youngstown Elser Metro Airport
+4301 Jwaneng
+4302 Welkom
+4303 Wonderboom
+4304 Virginia
+4305 Vryburg
+4306 Prince Mangosuthu Buthelezi
+4307 Tzaneen
+4308 William T. Piper Mem.
+4309 Randall Airport
+4310 Ambilobe
+4311 Ouani
+4312 Andapa
+4313 Richmond County Airport
+4314 Bamberg County Airport
+4315 Richland Airport
+4316 Municipal Airport
+4317 Miandrivazo
+4318 Baraboo Wisconsin Dells Airport
+4319 Foster Field
+4320 Bandaressalam
+4321 Foumban Nkounja
+4322 Sylvania Airport
+4323 Southdowns
+4324 Municipal Airport
+4325 Stroudsburg-Pocono Airport
+4326 Spring Hill Airport
+4327 Yaounde Ville
+4328 Bamenda
+4329 Bafoussam
+4330 Bryce Canyon
+4331 Sindal Airport
+4332 Alalamain Intl.
+4333 North Central State
+4334 Inverell
+4335 Dabo
+4336 Warraber Island Airport
+4337 Wiluna Airport
+4338 Pondok Cabe
+4339 Tunggul Wulung
+4340 Wollongong Airport
+4341 Penggung
+4342 Yorke Island Airport
+4343 Maimun Saleh
+4344 Yam Island Airport
+4345 Robins Afb
+4346 Mc Minnville Muni
+4347 Ladd Aaf
+4348 Craig Fld
+4349 Grissom Arb
+4350 Oceana Nas
+4351 Kendall Tamiami Executive
+4352 Columbus Afb
+4353 Victoria River Downs Airport
+4354 Tennant Creek Airport
+4355 Strahan Airport
+4356 Siauliai Intl
+4357 Laverton Airport
+4358 Yasser Arafat Intl
+4359 Mabuiag Island Airport
+4360 Assab Intl
+4361 Meekatharra Airport
+4362 Pajuostis
+4363 Mount Magnet Airport
+4364 Barysiai
+4365 Liepaja Intl
+4366 Satar Tacik
+4367 Murray Island Airport
+4368 Maryborough Airport
+4369 Nakhon Ratchasima
+4370 Palm Island Airport
+4371 Selaparang
+4372 Ramingining Airport
+4373 Shark Bay Airport
+4374 Saibai Island Airport
+4375 Ankang Airport
+4376 Langley Afb
+4377 Hanzhong Airport
+4378 Homestead Arb
+4379 Vandenberg Afb
+4380 Willow Run
+4381 Qiemo Airport
+4382 Willow Grove Nas Jrb
+4383 Holloman Afb
+4384 Wallops Flight Facility
+4385 Sherman Aaf
+4386 Riverside Muni
+4387 Muir Aaf
+4388 Eareckson As
+4389 Del Rio Intl
+4390 Opa Locka
+4391 Macdill Afb
+4392 Nogales Intl
+4393 Bradshaw Aaf
+4394 Beauregard Rgnl
+4395 Barking Sands Pmrf
+4396 Mount Keith
+4397 Lakehurst Naes
+4398 Nellis Afb
+4399 Arvaikheer Airport
+4400 Kaneohe Bay Mcaf
+4401 Condron Aaf
+4402 Hobart Muni
+4403 Meridian Nas
+4404 Cotulla Lasalle Co
+4405 Forbes Fld
+4406 Barksdale Afb
+4407 Gulkana
+4408 Offutt Afb
+4409 Cannon Afb
+4410 March Arb
+4411 Quantico Mcaf
+4412 Boca Raton
+4413 Westover Arb Metropolitan
+4414 Norfolk Ns
+4415 Mountain Home Afb
+4416 Snohomish Co
+4417 Griffing Sandusky
+4418 Waukegan Rgnl
+4419 Leinster Airport
+4420 Lightning Ridge Airport
+4421 Lake Evella Airport
+4422 Levuka Airfield
+4423 Santa Elena Airport
+4424 Ban Huoeisay Airport
+4425 Kontum Airport
+4426 Mafia
+4427 Meghauli Airport
+4428 Koromiko
+4429 Kaikoura
+4430 Loikaw Airport
+4431 Mawlamyine Airport
+4432 Blythe Airport
+4433 Ekati
+4434 Pathein Airport
+4435 Pakhokku Airport
+4436 Sumbawa Besar Airport
+4437 Bokondini Airport
+4438 Senggeh Airport
+4439 Tanjung Harapan Airport
+4440 Phu Bai
+4441 Barisal Airport
+4442 Tezpur Airport
+4443 Nauru Intl
+4444 Jomsom
+4445 Chaurjhari
+4446 Jumla
+4447 Rukumkot
+4448 Tulsipur
+4449 Rumjatar
+4450 Thamkharka
+4451 Phaplu
+4452 Manang
+4453 Lamidanda
+4454 Battambang Airport
+4455 Bhojpur
+4456 Lukla
+4457 Flugplatz Merzbrueck
+4458 Balakovo Airport
+4459 Khamti
+4460 Magwe
+4461 Koggala Airport
+4462 Wirawila Airport
+4463 Orlando
+4464 Warukin Airport
+4465 Leonora Airport
+4466 Talkeetna
+4467 Oakey Airport
+4468 Blackwater Airport
+4469 Carnarvon Airport
+4470 Coconut Island Airport
+4471 Cooktown Airport
+4472 Coonamble Airport
+4473 Darnley Island Airport
+4474 Xewkija Heliport
+4475 Bimini North Seaplane Base
+4476 Bourke Airport
+4477 Hooker Creek Airport
+4478 Qasigiannguit
+4479 Kalbarri Airport
+4480 Wall Street Heliport
+4481 Kalkgurung Airport
+4482 Karumba Airport
+4483 Beihan
+4484 Kubin Airport
+4485 Boigu Airport
+4486 Badu Island Airport
+4487 Sampit(Hasan) Airport
+4488 Tomanggong Airport
+4489 Panama City Bay Co Intl
+4490 Arthur Dunn Airpark
+4491 Mali Airport
+4492 Van Nuys
+4493 Belaga Airport
+4494 Port O\\'Connor Airfield
+4495 David Wayne Hooks Field
+4496 Seronera
+4497 Halim Perdanakusuma International Airport
+4498 Milford Sound Airport
+4499 Susilo Airport
+4500 Pendopo Airport
+4501 Long Bawan Airport
+4502 Stuttgart Railway Station
+4503 Cologne Railway
+4504 Nunukan Airport
+4505 Argyle Airport
+4506 East 34th Street Heliport
+4507 Moffett Federal Afld
+4508 Hartford Brainard
+4509 Edwards Afb
+4510 Elkins Randolph Co Jennings Randolph
+4511 Hill Afb
+4512 Everglades Airpark
+4513 Marinduque Airport
+4514 Hamadan Airport
+4515 Edward F Knapp State
+4516 Grant Co Intl
+4517 Terre Haute Intl Hulman Fld
+4518 Terre-de-Haut Airport
+4519 Sierra Vista Muni Libby Aaf
+4520 Bowman Fld
+4521 Yenisehir Airport
+4522 Biggs Aaf
+4523 North Island Nas
+4524 Palm Beach Co Park
+4525 Tonopah Test Range
+4526 Francis S Gabreski
+4527 Greenwood Leflore
+4528 Akron Fulton Intl
+4529 Whiteman Afb
+4530 Galt Field Airport
+4531 Tindal Airport
+4532 Nowra Airport
+4533 Mc Alester Rgnl
+4534 Greater Kankakee
+4535 Beale Afb
+4536 Minot Afb
+4537 Altus Afb
+4538 Esler Rgnl
+4539 Wangerooge Airport
+4540 Coulter Fld
+4541 Wittman Regional Airport
+4542 Ternopol
+4543 Menominee Marinette Twin Co
+4544 Chernigov
+4545 Ellsworth Afb
+4546 Teterboro
+4547 Patrick Afb
+4548 Lutsk
+4549 Southwest Michigan Regional Airport
+4550 Waukesha County Airport
+4551 Lone Star Executive
+4552 Dillingham
+4553 Canakkale Airport
+4554 Scholes Intl At Galveston
+4555 Upolu
+4556 Albert Whitted
+4557 Hickory Rgnl
+4558 Marshall Aaf
+4559 Kingsville Nas
+4560 Lawson Aaf
+4561 Keesler Afb
+4562 Childress Muni
+4563 Davis Fld
+4564 Gray Aaf
+4565 Millinocket Muni
+4566 Kirtland Air Force Base
+4567 Elizabeth City Cgas Rgnl
+4568 Tinker Afb
+4569 Arkansas Intl
+4570 Palacios Muni
+4571 Patuxent River Nas
+4572 Campbell Aaf
+4573 Felker Aaf
+4574 Page Fld
+4575 Andrews Afb
+4576 Igor I Sikorsky Mem
+4577 Grand Forks Afb
+4578 Brus Laguna Airport
+4579 Moody Afb
+4580 Alice Intl
+4581 Whidbey Island Nas
+4582 Ellington Fld
+4583 Palmer Muni
+4584 Northway
+4585 Buckley Afb
+4586 Togiak Airport
+4587 Smith Reynolds
+4588 Pensacola Nas
+4589 Davis Monthan Afb
+4590 New Stuyahok Airport
+4591 Shimla Airport
+4592 St Clair Co Intl
+4593 Wheeler Sack Aaf
+4594 Bob Sikes
+4595 Southern California Logistics
+4596 Seymour Johnson Afb
+4597 Rancho Murieta
+4598 Antonio Juarbe Pol Airport
+4599 Shaw Afb
+4600 Northeast Philadelphia
+4601 Key West Nas
+4602 Selfridge Angb
+4603 Fallon Nas
+4604 Cape May Co
+4605 Coleman A Young Muni
+4606 Majors
+4607 New Haven Rail Station
+4608 Doha Free Zone Airport
+4609 Truth Or Consequences Muni
+4610 Bremerton National
+4611 Spencer Muni
+4612 Lackland Afb Kelly Fld Annex
+4613 Jefferson City Memorial Airport
+4614 Otis Angb
+4615 Fort Worth Meacham Intl
+4616 Unst Airport
+4617 Dade Collier Training And Transition
+4618 Worcester Regional Airport
+4619 Palmdale Rgnl Usaf Plt 42
+4620 Felts Fld
+4621 New Orleans Nas Jrb
+4622 Millington Rgnl Jetport
+4623 Gran Roque Airport
+4624 Black Rock
+4625 Inishmore Airport
+4626 Tucumcari Muni
+4627 Phillips Aaf
+4628 Connemara Regional Airport
+4629 Beaufort
+4630 Mc Connell Afb
+4631 Randolph Afb
+4632 Mineral Wells
+4633 Guettin MecklenburgVorpommern Germany
+4634 Wright Patterson Afb
+4635 Princeton Muni
+4636 Henry Post Aaf
+4637 Drake Fld
+4638 Berezovo
+4639 El Centro Naf
+4640 Magas
+4641 Sukhumi Dranda
+4642 Ringi Cove Airport
+4643 Emanuel Co
+4644 Neuchatel Airport
+4645 Tyndall Afb
+4646 Roscommon Co
+4647 Fairchild Afb
+4648 Dobbins Arb
+4649 Sacramento Executive
+4650 Baudette Intl
+4651 Locarno Airport
+4652 Cherry Point Mcas
+4653 Daqing Saertu Airport
+4654 Mc Guire Afb
+4655 Ardmore Muni
+4656 Fortman Airport
+4657 Angelina Co
+4658 Eielson Afb
+4659 Polk Aaf
+4660 Pembina Muni
+4661 Bellona
+4662 Mc Chord Afb
+4663 Hood Aaf
+4664 Tambow
+4665 Fullerton Municipal Airport
+4666 Calexico Intl
+4667 Godman Aaf
+4668 Jacksonville Nas
+4669 Hillsboro Muni
+4670 Dupage
+4671 Oban Airport
+4672 Courchevel Airport
+4673 Dyess Afb
+4674 Elmendorf Afb
+4675 Millville Muni
+4676 Fort William Heliport
+4677 Vero Beach Muni
+4678 La Defense Heliport
+4679 Winkler Co
+4680 Ronda Airport
+4681 Mc Clellan Afld
+4682 Castle
+4683 Portsmouth Airport
+4684 Taplejung
+4685 Simikot
+4686 Dolpa
+4687 Bajhang
+4688 EuroAirport
+4689 La Môle Airport
+4690 Pécs-Pogány Airport
+4691 Győr-Pér International Airport
+4692 Aosta Airport
+4693 Salerno Pontecagnano Airport
+4694 Usak Airport
+4695 Sanliurfa Airport
+4696 Samsun-Çarşamba Airport
+4697 Žilina Airport
+4698 Middle Caicos Airport
+4699 Dr Joaquin Balaguer International Airport
+4700 Puerto Barrios Airport
+4701 Quezaltenango Airport
+4702 Utirik Airport
+4703 Ailuk Airport
+4704 Aur Island Airport
+4705 Enyu Airfield
+4706 Jabot Airport
+4707 Île d'Yeu Airport
+4708 Norway House Airport
+4709 Kiwayu (Mkononi) Airport
+4710 Alamogordo White Sands Regional Airport
+4711 Kigoma Airport
+4712 Kikwetu Airport
+4713 Musoma Airport
+4714 Shinyanga Airport
+4715 Tabora Airport
+4716 Gulu Airport
+4717 Fond-Du-Lac Airport
+4718 San Domino Island Heliport
+4719 Ilford Airport
+4720 Points North Landing Airport
+4721 York Landing Airport
+4722 St. Theresa Point Airport
+4723 Stony Rapids Airport
+4724 Kili Airport
+4725 Nakina Airport
+4726 Pease International Tradeport
+4727 Reading Regional Carl A Spaatz Field
+4728 Oxford House Airport
+4729 Jeh Airport
+4730 Kaben Airport
+4731 Likiep Airport
+4732 Nassau Paradise Island Airport
+4733 Port-de-Paix Airport
+4734 Texada Gillies Bay Airport
+4735 Alberto Delgado Airport
+4736 Salina Cruz Naval Air Station
+4737 Congo Town Airport
+4738 Arthurs Town Airport
+4739 New Bight Airport
+4740 Cartwright Airport
+4741 Uranium City Airport
+4742 Playa Samara Airport
+4743 Manihiki Island Airport
+4744 Penrhyn Island Airport
+4745 Malolo Lailai Island Airport
+4746 Mana Island Airport
+4747 Moala Airport
+4748 Ngau Airport
+4749 Colville Lake Airport
+4750 Koro Island Airport
+4751 Jeremie Airport
+4752 Gods Lake Narrows Airport
+4753 Maloelap Island Airport
+4754 Ahuas Airport
+4755 Mejit Atoll Airport
+4756 Majkin Airport
+4757 Namorik Atoll Airport
+4758 Rongelap Island Airport
+4759 Jaluit Airport
+4760 Woja Airport
+4761 Wotje Atoll Airport
+4762 Wotho Island Airport
+4763 Mili Island Airport
+4764 Vancouver Harbour Water Airport
+4765 Captain Rogelio Castillo National Airport
+4766 Ciudad Constitución Airport
+4767 Guerrero Negro Airport
+4768 Alonso Valderrama Airport
+4769 Enrique Adolfo Jimenez Airport
+4770 Island Lake Airport
+4771 Captain Ramon Xatruch Airport
+4772 Barra del Colorado Airport
+4773 Bukoba Airport
+4774 Atbara Airport
+4775 Mitiga Airport
+4776 Ambanja Airport
+4777 Antsalova Airport
+4778 Ankavandra Airport
+4779 Maintirano Airport
+4780 Morafenobe Airport
+4781 Tambohorano Airport
+4782 Tsiroanomandidy Airport
+4783 Ambatondrazaka Airport
+4784 Port Bergé Airport
+4785 Soalala Airport
+4786 Loubomo Airport
+4787 Mampikony Airport
+4788 Tsaratanana Airport
+4789 Mandritsara Airport
+4790 Manja Airport
+4791 Dundo Airport
+4792 Helgoland-Düne Airport
+4793 Namibe Airport
+4794 Koulamoutou Airport
+4795 Iconi Airport
+4796 Limpopo Valley Airport
+4797 Tchibanga Airport
+4798 Storuman Airport
+4799 Anglesey Airport
+4800 Penzance Heliport
+4801 Lerwick / Tingwall Airport
+4802 Fair Isle Airport
+4803 Værøy Heliport
+4804 Hagfors Airport
+4805 Torsby Airport
+4806 Robin Hood Doncaster Sheffield Airport
+4807 Shilavo Airport
+4808 Shakawe Airport
+4809 Nottingham Airport
+4810 Ventspils International Airport
+4811 Rand Airport
+4812 Seinäjoki Airport
+4813 Malamala Airport
+4814 Mmabatho International Airport
+4815 Ghanzi Airport
+4816 Orapa Airport
+4817 Mouilla Ville Airport
+4818 Croisette Heliport
+4819 Gods River Airport
+4820 Dembidollo Airport
+4821 Akunnaaq Heliport
+4822 Iginniarfik Heliport
+4823 Smara Airport
+4824 Praia International Airport
+4825 Sao Filipe Airport
+4826 Baco Airport
+4827 Beica Airport
+4828 Combolcha Airport
+4829 Gore Airport
+4830 Kenema Airport
+4831 Mizan Teferi Airport
+4832 Tippi Airport
+4833 Alula Airport
+4834 Wollaston Lake Airport
+4835 Burao Airport
+4836 El Arish International Airport
+4837 Shamattawa Airport
+4838 Swan River Airport
+4839 Groennedal Heliport
+4840 Bo Airport
+4841 Sarh Airport
+4842 Basankusu Airport
+4843 Club Makokola Airport
+4844 Heide-Büsum Airport
+4845 Swakopmund Airport
+4846 Boma Airport
+4847 Tshimpi Airport
+4848 Inongo Airport
+4849 Nioki Airport
+4850 Basango Mboliasa Airport
+4851 Tshikapa Airport
+4852 Sherbro International Airport
+4853 Lodja Airport
+4854 Ilebo Airport
+4855 Gamba
+4856 Foula Airport
+4857 Outer Skerries Airport
+4858 Papa Stour Airport
+4859 Lauriston Airport
+4860 Ceuta Heliport
+4861 Kaufana Airport
+4862 Lifuka Island Airport
+4863 Mata'aho Airport
+4864 Kyzyl Airport
+4865 Ust-Ilimsk
+4866 Egelsbach
+4867 Rivne International Airport
+4868 Amderma Airport
+4869 General Manuel Carlos Piar
+4870 Mogilev Airport
+4871 Yeniseysk Airport
+4872 7 Novembre
+4873 Iosco County
+4874 Gallup Muni
+4875 Khatanga Airport
+4876 Kaieteur
+4877 Nalchik Airport
+4878 Phetchabun
+4879 El Toro
+4880 Ratanakiri
+4881 Aleknagik Airport
+4882 Downtown
+4883 Uzundzhovo
+4884 Lamar Muni
+4885 Mercer County Airport
+4886 Kresty
+4887 Necochea Airport
+4888 Tuscaloosa Rgnl
+4889 Lago Argentino Airport
+4890 Smith Fld
+4891 Johnston Atoll
+4892 Yuzhny
+4893 Turkmenabat
+4894 Kogalym International
+4895 San Fernando Airport
+4896 Renner Fld
+4897 Tandag Airport
+4898 Washington Union Station
+4899 Bykovo
+4900 Subic Bay International Airport
+4901 Okhotsk Airport
+4902 Ujae Atoll Airport
+4903 Mariupol International Airport
+4904 Fornebu
+4905 Brookings Regional Airport
+4906 Fagali\\'i
+4907 St-François Airport
+4908 Centennial
+4909 Ozona Muni
+4910 Draughon Miller Central Texas Rgnl
+4911 Stephens Co
+4912 Las Cruces Intl
+4913 La Junta Muni
+4914 West Houston
+4915 Las Vegas Muni
+4916 Fort Stockton Pecos Co
+4917 Hayman Island Airport
+4918 Waikoloa Heliport
+4919 Sugar Land Regional Airport
+4920 Gounda Airport
+4921 Verkehrslandeplatz Juist
+4922 Sonderlandeplatz Norden-Norddeich
+4923 Staroselye Airport
+4924 Kursk East Airport
+4925 Lipetsk Airport
+4926 Yoshkar-Ola Airport
+4927 Athen Helenikon Airport
+4928 Aklavik
+4929 Thangool
+4930 Concord Municipal
+4931 Heydar Aliyev
+4932 Laughlin-Bullhead Intl
+4933 Sedona
+4934 Bowerman Field
+4935 Lopez Island Airport
+4936 Bagan
+4937 Groton New London
+4938 Sanford Regional
+4939 Hartness State
+4940 Kurgan Airport
+4941 Newport State
+4942 Nyagan Airport
+4943 Lake Tahoe Airport
+4944 Fort Collins Loveland Muni
+4945 Mansfield Lahm Regional
+4946 Cuyahoga County
+4947 Raduzhny Airport
+4948 Nefteyugansk Airport
+4949 Les Bases Airport
+4950 Codrington Airport
+4951 Kuini Lavenia Airport
+4952 Ormara Airport
+4953 Saul Airport
+4954 Wadi Al Dawasir Airport
+4955 Rafsanjan Airport
+4956 Chulman
+4957 Bannu Airport
+4958 Jiwani Airport
+4959 Hyderabad Airport
+4960 Khuzdar Airport
+4961 Parachinar Airport
+4962 Moyo Airport
+4963 Sehwan Sharif Airport
+4964 Union Island International Airport
+4965 Kamishly Airport
+4966 J F Mitchell Airport
+4967 EL Real Airport
+4968 Baillif Airport
+4969 La Désirade Airport
+4970 El Jaguel / Punta del Este Airport
+4971 Faizabad Airport
+4972 Komsomolsk-on-Amur Airport
+4973 Capitán Av. German Quiroga G. Airport
+4974 Grímsey Airport
+4975 Niue International Airport
+4976 Mountain Airport
+4977 Maota Airport
+4978 Apataki Airport
+4979 Whistler/Green Lake Water Aerodrome
+4980 Punta Gorda Airport
+4981 Vopnafjörður Airport
+4982 Thorshofn Airport
+4983 Qeqertarsuaq Heliport
+4984 Babanakira Airport
+4985 Kerema Airport
+4986 Kikori Airport
+4987 Naone Airport
+4988 Chimbu Airport
+4989 Redcliffe Airport
+4990 Mono Airport
+4991 Nusatupe Airport
+4992 North West Santo Airport
+4993 Caballococha Airport
+4994 Tadji Airport
+4995 Ricardo García Posada Airport
+4996 Sorocaba Airport
+4997 Mokpo Airport
+4998 Cuyo Airport
+4999 General Enrique Mosconi Airport
+5000 Las Heras Airport
+5001 Antoine De St Exupery Airport
+5002 Gobernador Gregores Airport
+5003 Santa Teresita Airport
+5004 Goulburn Airport
+5005 Toledo Airport
+5006 Okadama Airport
+5007 Pucón Airport
+5008 Puerto Rico Airport
+5009 Reyes Airport
+5010 Zorg en Hoop Airport
+5011 Mucuri Airport
+5012 Boorama Airport
+5013 Maria Reiche Neuman Airport
+5014 Escuela Mariscal Sucre Airport
+5015 Stanley Airport
+5016 Santa Ana Airport
+5017 Gasmata Island Airport
+5018 Obo Airport
+5019 Ihu Airport
+5020 Nissan Island Airport
+5021 Jacquinot Bay Airport
+5022 Kandrian Airport
+5023 Kokoda Airport
+5024 Kamusi Airport
+5025 Lake Murray Airport
+5026 La Jagua Airport
+5027 Suki Airport
+5028 Matsu Beigan Airport
+5029 Nuku Airport
+5030 Baimuru Airport
+5031 Wipim Airport
+5032 El Nido Airport
+5033 Kalaupapa Airport
+5034 Eniwetok Airport
+5035 Matsu Nangan Airport
+5036 Hengchun Airport
+5037 Lemoore Nas
+5038 Point Mugu Nas
+5039 Kirovograd
+5040 Yoron
+5041 Carolina
+5042 Winslow-Lindbergh Regional Airport
+5043 Douglas Municipal Airport
+5044 Marakei Airport
+5045 Abemama Atoll Airport
+5046 Bauru
+5047 Aranuka Airport
+5048 Bacacheri
+5049 Kuria Airport
+5050 Comandante Gustavo Kraemer
+5051 Arorae Island Airport
+5052 Tamana Airport
+5053 Araraquara
+5054 Beru Island Airport
+5055 Villa Gesell
+5056 Tandil
+5057 Nikunau Airport
+5058 Butaritari Atoll Airport
+5059 Mackinac Island Airport
+5060 Lake Havasu City Airport
+5061 Borrego Valley Airport
+5062 Caravelas
+5063 Derby Airport
+5064 Dickwella Airport
+5065 Cimei Airport
+5066 Grand Marais Cook County Airport
+5067 Dasoguz Airport
+5068 Barrow Island Airport
+5069 Morawa Airport
+5070 Exmouth Airport
+5071 Lins
+5072 Walgett Airport
+5073 Carbon County Regional-Buck Davis Field
+5074 Bathurst Island Airport
+5075 Dunk Island Airport
+5076 Lizard Island Airport
+5077 Halls Creek Airport
+5078 Fitzroy Crossing Airport
+5079 Steamboat Springs Airport-Bob Adams Field
+5080 Delta Municipal Airport
+5081 Richfield Minicipal Airport
+5082 Makin Airport
+5083 Maiana Airport
+5084 Nonouti Airport
+5085 Sokerkino
+5086 Asau Airport
+5087 Yandina Airport
+5088 Batuna Airport
+5089 General Urquiza
+5090 Gualeguaychu
+5091 Comodoro Pierrestegui
+5092 Bartow Municipal Airport
+5093 Wausau Downtown Airport
+5094 Fitiuta Airport
+5095 Peleliu Airfield
+5096 Gardermoen Airport
+5097 Ofu Airport
+5098 Livermore Municipal
+5099 Baguio
+5100 MariposaYosemite
+5101 Grootfontein
+5102 Mary Airport
+5103 Beppu Airport
+5104 La Plata
+5105 Malargue
+5106 Santa Cruz
+5107 Portage Municipal Airport
+5108 Perito Moreno
+5109 San Julian
+5110 Tabiteuea South Airport
+5111 Bosset Airport
+5112 Puerto Deseado
+5113 Ine Airport
+5114 Tinak Airport
+5115 El Bolson
+5116 Oran
+5117 Takaka Aerodrome
+5118 Elenak Airport
+5119 Lae Airport
+5120 Paso De Los Libres
+5121 Airok Airport
+5122 Enejit Airport
+5123 Villa Dolores
+5124 Rio Cuarto Area De Material
+5125 Whitianga Airport
+5126 Bentota Airport
+5127 Lubang Community Airport
+5128 Borongan Airport
+5129 McCarthy Airport
+5130 Lille
+5131 Vologda Airport
+5132 Otu
+5133 Aguas Claras
+5134 Huesca-Pirineos Airport
+5135 Baracoa
+5136 Ciudad Real Central Airport
+5137 Hilversum Railway Station
+5138 Colonsay Airport
+5139 Inishmaan Aerodrome
+5140 Coll Airport
+5141 Rock Hill York Co Bryant Airport
+5142 Allegheny County Airport
+5143 Cecil Field
+5144 Fulton County Airport Brown Field
+5145 Tresco Heliport
+5146 Tarin Kowt Airport
+5147 Tarapoa
+5148 Taldykorgan Airport
+5149 Farfan
+5150 Zaranj Airport
+5151 Bird Island Airport
+5152 Moises Benzaquen Rengifo
+5153 Michigan City Municipal Airport
+5154 Benguera Island Airport
+5155 Juanjui
+5156 Indigo Bay Lodge Airport
+5157 Teniente Jaime A De Montreuil Morales
+5158 Ouro Sogui Airport
+5159 Seward Airport
+5160 Wadi Halfa Airport
+5161 Saudarkrokur
+5162 Pakuba Airport
+5163 Huizhou
+5164 Aeropuerto Capitan Fuentes Martinez
+5165 Central Railway Station
+5166 Union Station
+5167 Bildudalur Airport
+5168 Gjogur Airport
+5169 Bermejo
+5170 General Ulpiano Paez
+5171 Reales Tamarindos
+5172 Pocos De Caldas
+5173 Tajima Airport
+5174 Matak Airport
+5175 Mainz Finthen
+5176 Mainz
+5177 Base Aerea De Santos
+5178 Berlin Gatow
+5179 Rheine Bentlage
+5180 Santa Cruz
+5181 Mosul International Airport
+5182 Amakusa Airfield
+5183 Paulo Afonso
+5184 Kikai Airport
+5185 Porter County Municipal Airport
+5186 Aguni Airport
+5187 Ponta Pora
+5188 Porto Nacional
+5189 Haeju Airport
+5190 Layang Layang Airport
+5191 Bulgan Airport
+5192 Latur Airport
+5193 Ponta Pelada Airport
+5194 General Manuel Serrano
+5195 Addison
+5196 Chaghcharan Airport
+5197 Chachoan
+5198 Macau Ferry Pier
+5199 Chaiten
+5200 Ocean Isle Beach Airport
+5201 Ohio State University Airport
+5202 Rio Sidra
+5203 Maria Dolores
+5204 Destin
+5205 First Flight Airport
+5206 Fort Jefferson
+5207 Teniente Vidal
+5208 Chernobayevka Airport
+5209 Ryans Creek Aerodrome
+5210 Chile Chico
+5211 Yarmouth Airport
+5212 Campo Fontenelle
+5213 Kinston Regional Jetport
+5214 Yonaguni
+5215 Shimojishima
+5216 Vance Afb
+5217 Kitadaito
+5218 Erie-Ottawa Regional Airport
+5219 Aeropuerto de Rafaela
+5220 Whitsunday Airstrip
+5221 Dayton-Wright Brothers Airport
+5222 Richmond Municipal Airport
+5223 Findlay Airport
+5224 Delaware County Airport
+5225 Penneshaw Airport
+5226 Kaufbeuren BF
+5227 Munich HBF
+5228 Nurnberg HBF
+5229 Ebenhofen BF
+5230 Shahid Asyaee
+5231 Augsburg HBF
+5232 Biessenhofen BF
+5233 Miami University Airport
+5234 Buchloe BF
+5235 Fussen BF
+5236 Sulayel
+5237 Sabadell Airport
+5238 Fenosu
+5239 French Valley Airport
+5240 Kota Kinabalu Airport
+5241 Cobb County Airport-Mc Collum Field
+5242 Lyon Part-Dieu Railway
+5243 Thumrait
+5244 Oneonta Municipal Airport
+5245 Wideawake Field
+5246 Masirah
+5247 Dell Flight Strip
+5248 Mission Field Airport
+5249 Big Timber Airport
+5250 Idlewild Intl
+5251 Reykjahlid Airport
+5252 Tulip City Airport
+5253 Hernesaari Heliport
+5254 West 30th St. Heliport
+5255 Lakeland Linder Regional Airport
+5256 King Hussein
+5257 Marka Intl
+5258 Syangboche
+5259 Kempten HBF
+5260 Aiome
+5261 King Khaled Military City
+5262 Volkel AB
+5263 Alexandra
+5264 Tunica Municipal Airport
+5265 Glentanner
+5266 Kasaba Bay Airport
+5267 Chatham Islands
+5268 Lindau HBF
+5269 Ardmore
+5270 Guardiamarina Zanartu Airport
+5271 Lawrence J Timmerman Airport
+5272 Manapouri
+5273 Southern Wisconsin Regional Airport
+5274 Hatfield
+5275 Arlington Municipal
+5276 Gwinnett County Airport-Briscoe Field
+5277 Bowling Green-Warren County Regional Airport
+5278 Richard Lloyd Jones Jr Airport
+5279 Krymsk
+5280 Minhad HB
+5281 Mount Cook
+5282 McNary Field
+5283 Simbai
+5284 Jalalabad
+5285 Ambunti
+5286 King Abdulaziz Ab
+5287 Marktoberdorf Schule
+5288 Essen HBF
+5289 Bochum HBF
+5290 Konduz
+5291 Maimana
+5292 Koln HBF
+5293 Bembridge
+5294 Rocky Mountain Metropolitan Airport
+5295 Leuterschach BF
+5296 Wanaka
+5297 Black Hills Airport-Clyde Ice Field
+5298 Knokke-Heist Westkapelle Heliport
+5299 Gdynia
+5300 Olive Branch Muni
+5301 Zonguldak
+5302 Oamaru
+5303 Moultrie Municipal Airport
+5304 Muzaffarabad
+5305 Amsterdam Centraal
+5306 Kineshma
+5307 Dekalb-Peachtree Airport
+5308 Monroe County Airport
+5309 Witham Field Airport
+5310 Oki
+5311 Napa County Airport
+5312 Tokunoshima
+5313 Brown Field Municipal Airport
+5314 Pahokee Airport
+5315 Nezhitino
+5316 Garfield County Regional Airport
+5317 Machu Pichu Airport
+5318 New Tanegashima
+5319 San Bernardino International Airport
+5320 Yakushima
+5321 Okushiri
+5322 Valenca Airport
+5323 Dix Sept Rosado Airport
+5324 Chitose
+5325 Shively Field Airport
+5326 Yolo County Airport
+5327 Wake Island Afld
+5328 Paddington Station
+5329 Minami Daito
+5330 Heron Island
+5331 Kadena Ab
+5332 Lady Elliot Island
+5333 Yecheon
+5334 Orpheus Island
+5335 Osan Ab
+5336 Seoul Ab
+5337 Jacqueline Cochran Regional Airport
+5338 Olympia Regional Airpor
+5339 Macomb Municipal Airport
+5340 Gangneung
+5341 Sokcho
+5342 Yokota Ab
+5343 Santa Monica Municipal Airport
+5344 Sazena
+5345 Bermuda Dunes Airport
+5346 Scottsdale Airport
+5347 Caruaru Airport
+5348 Iwo Jima
+5349 Nawabshah
+5350 Talhar
+5351 Canton
+5352 Phan Rang Airport
+5353 Palmyra
+5354 Bassel Al Assad Intl
+5355 Deir Zzor
+5356 Damascus Intl
+5357 Aleppo Intl
+5358 Na-San Airport
+5359 Sui
+5360 Andersen Afb
+5361 Saidu Sharif
+5362 Truckee-Tahoe Airport
+5363 Point Roberts Airpark
+5364 Rawalakot
+5365 Frejus Saint Raphael
+5366 Geelong Airport
+5367 Berlin Hauptbahnhof
+5368 Pasni
+5369 Mammy Yoko Heliport
+5370 Amsterdam Centraal
+5371 Aeroclube de Nova Iguacu
+5372 Lyudao
+5373 Wang An
+5374 Gare du Nord
+5375 Gare Montparnasse
+5376 Cessnock Airport
+5377 Saint-Pierre-des-Corps
+5378 Lanyu
+5379 Chiayi
+5380 San Carlos Airport
+5381 Pingtung South
+5382 Tinian Intl
+5383 Koszalin - Zegrze Pomorskie Airport
+5384 Lelystad Airport
+5385 Rocky Mount Wilson Regional Airport
+5386 Soldotna Airport
+5387 Midway Atoll
+5388 Gillespie
+5389 London St Pancras
+5390 Scone Airport
+5391 Chachapoyas
+5392 Bazaruto Island Airport
+5393 Kyoto
+5394 Pisco Intl
+5395 Air Base
+5396 Inisheer
+5397 Strezhevoy
+5398 Hutchinson Municipal Airport
+5399 Bagram AFB
+5400 Perth Jandakot
+5401 Eagle County Airport
+5402 Rosecrans Mem
+5403 Melbourne Moorabbin
+5404 Hartford Union Station
+5405 Stamford Amtrak Station
+5406 Newark Penn Station
+5407 Cuxhaven Airport
+5408 Volk Fld
+5409 BFT County Airport
+5410 Adana-Incirlik Airbase
+5411 Xi\\'An Xiguan
+5412 Zamperini Field Airport
+5413 Grand Canyon Heliport
+5414 Woomera
+5415 Mojave
+5416 Sydney Bankstown
+5417 Great Bend Municipal
+5418 Sabi Sabi Airport
+5419 Philadelphia 30th St Station
+5420 Zhongchuan
+5421 KBWD
+5422 Mexia - Limestone County Airport
+5423 Kerrville Municipal Airport
+5424 Sussex Co
+5425 Seal Cove Seaplane Base
+5426 Spirit Of St Louis
+5427 Avalon
+5428 Ely Municipal
+5429 Eagle River
+5430 Lakeland
+5431 Ankeny Regl Airport
+5432 Berens River
+5433 Corpus Christi NAS
+5434 Camden
+5435 Seaplane Base
+5436 Northern Aroostook Regional Airport
+5437 Seletar
+5438 Paya Lebar
+5439 Hyder Seaplane Base
+5440 Laguna de Los Patos International Airport
+5441 Arkalyk Airport
+5442 Putao
+5443 Mong Hsat
+5444 Chatham Seaplane Base
+5445 Funter Bay Seaplane Base
+5446 Kake Airport
+5447 Kyaukpyu
+5448 Bamburi
+5449 Pitu
+5450 Nhatrang
+5451 Chignik Lagoon Airport
+5452 Chignik Bay Seaplane Base
+5453 Orchid Beach
+5454 Pattani
+5455 Alitak Seaplane Base
+5456 Moser Bay Seaplane Base
+5457 Olga Bay Seaplane Base
+5458 Birch Creek Airport
+5459 Beaver Airport
+5460 Lake Cumberland Regional Airport
+5461 Pinang Kampai
+5462 Malacca
+5463 Florida Keys Marathon Airport
+5464 Balti International Airport
+5465 Japura
+5466 Ely Airport
+5467 Sierra Blanca Regional Airport
+5468 McCall Municipal Airport
+5469 Lemhi County Airport
+5470 Anacortes Airport
+5471 Livingood Airport
+5472 Astoria Regional Airport
+5473 Newport Municipal Airport
+5474 Ugnu-Kuparuk Airport
+5475 Ekwok Airport
+5476 Koliganek Airport
+5477 Manokotak Airport
+5478 Twin Hills Airport
+5479 Eagle Airport
+5480 Malad City
+5481 Brigham City
+5482 Logan-Cache
+5483 Fort Lauderdale Executive
+5484 Tstc Waco
+5485 Allen Aaf
+5486 Bisbee Douglas Intl
+5487 Port Clarence Coast Guard Station
+5488 Acadiana Rgnl
+5489 Cut Bank Muni
+5490 North Perry
+5491 Anderson Rgnl
+5492 Ormoc Airport
+5493 Caribou Muni
+5494 Naypyidaw
+5495 Jan Mayensfield
+5496 Huanghua Intl
+5497 Port Angeles Cgas
+5498 Mobile Downtown
+5499 Wendover
+5500 Griffiss Afld
+5501 Travis Afb
+5502 Annette Island
+5503 Little Rock Afb
+5504 Whiting Fld Nas North
+5505 Maxwell Afb
+5506 Houlton Intl
+5507 Jack Northrop Fld Hawthorne Muni
+5508 Hurlburt Fld
+5509 Luke Afb
+5510 Miramar Mcas
+5511 Butts Aaf
+5512 Romblon Airport
+5513 Robinson Aaf
+5514 Wheeler Aaf
+5515 Redstone Aaf
+5516 Creech Afb
+5517 China Lake Naws
+5518 Tipton
+5519 Dover Afb
+5520 Anniston Metro
+5521 Laughlin Afb
+5522 Dalhart Muni
+5523 Pope Field
+5524 Oxnard - Ventura County
+5525 Grider Fld
+5526 Lake City Municipal Airport
+5527 Wanigela Airport
+5528 Stratton ANGB - Schenectady County Airpor
+5529 Wainwright As
+5530 Langeoog Airport
+5531 Fane Airport
+5532 Itokama Airport
+5533 Ononge Airport
+5534 Hohenems
+5535 Tapini Airport
+5536 Woitape Airport
+5537 Executive
+5538 Awaba Airport
+5539 Telefomin Airport
+5540 Nelspruit Airport
+5541 Cherkassy
+5542 St. Augustine Airport
+5543 Mykolaiv International Airport
+5544 Ramechhap
+5545 Kissimmee Gateway Airport
+5546 Niau
+5547 Penn Station
+5548 Hunter Aaf
+5549 Big Mountain Afs
+5550 Ponca City Rgnl
+5551 Grants Milan Muni
+5552 Merrill Fld
+5553 Twentynine Palms Eaf
+5554 Bicycle Lake Aaf
+5555 Sacramento Mather
+5556 Marina Muni
+5557 Oscoda Wurtsmith
+5558 St George
+5559 Clear
+5560 Cape Newenham Lrrs
+5561 Laurence G Hanscom Fld
+5562 Cape Romanzof Lrrs
+5563 Jinggangshan
+5564 Bryant Ahp
+5565 Sparrevohn Lrrs
+5566 Penn Station
+5567 Indian Mountain Lrrs
+5568 Port Williams Seaplane Base
+5569 Seal Bay Seaplane Base
+5570 San Juan - Uganik Seaplane Base
+5571 Dr. Augusto Roberto Fuster International Airport
+5572 Kaieteur International Airport
+5573 Codela Airport
+5574 Orinduik Airport
+5575 Annai Airport
+5576 Imbaimadai Airport
+5577 Kamarang Airport
+5578 Mabaruma Airport
+5579 Mahdia Airport
+5580 Provideniya Bay
+5581 Totness Airstrip
+5582 Alcides Fernandez Airport
+5583 El Bagre Airport
+5584 Juan H. White
+5585 Mandinga Airport
+5586 Golfo de Morrosquillo Airport
+5587 Soure Airport
+5588 Mustique
+5589 Confresa Airport
+5590 Wageningen Airstrip
+5591 Stoelmans Eiland Airstrip
+5592 Bom Futuro Airport
+5593 Essen Railway
+5594 Nuernberg Railway
+5595 Jose Aponte de la Torre Airport
+5596 Great Barrier Island
+5597 Aeropuerto Internacional Valle del Conlara
+5598 Alto Rio Senguer Airport
+5599 Jose de San Martin Airport
+5600 Augsburg Railway
+5601 Mannheim Railway
+5602 Abaiang Atoll Airport
+5603 Vincent Fayks Airport
+5604 St. Louis Downtown Airport
+5605 Minsk 1
+5606 Albina Airstrip
+5607 Vitebsk
+5608 Botopassi Airstrip
+5609 Djoemoe Airstrip
+5610 Drietabbetje Airstrip
+5611 Majoor Henry Fernandes Airport
+5612 Novo Aripuana Airport
+5613 Franca Airport
+5614 Fliegerhost 
+5615 Ciudad Bolivar
+5616 Debre Tabor Airport
+5617 Alberto Carnevalli
+5618 Harar Meda Airport
+5619 La Fria
+5620 Guanare
+5621 Guiria
+5622 Antonio Jose De Sucre
+5623 General Jose Francisco Bermudez
+5624 Robe Airport
+5625 Mekane Salam Airport
+5626 Anaco
+5627 Oswaldo Guevara Mujica
+5628 Nueva Hesperides Intl
+5629 Mayumba Airport
+5630 Rumbek Airport
+5631 Capitan Montes
+5632 Cape Palmas Airport
+5633 Ambatomainty Airport
+5634 Debre Marqos
+5635 General Bartolome Salom Intl
+5636 Labrea Airport
+5637 Am Timan Airport
+5638 Edinburgh Waverly Station
+5639 Fernando Luis Ribas Dominicci
+5640 Diego Jimenez Torres
+5641 Diamantino Airport
+5642 Tsletsi Airport
+5643 Lucapa Airport
+5644 Kapanda Airport
+5645 Canefield
+5646 Sharq Al-Owainat Airport
+5647 Awasa Airport
+5648 Lethem
+5649 Valle De La Pascua
+5650 Eastern WV Regional Airport
+5651 Tucupita
+5652 Santa Barbara Del Zulia
+5653 San Fernando De Apure
+5654 Sub Teniente Nestor Arias
+5655 San Antonio Del Tachira
+5656 Munich Railway
+5657 Bochum Railway
+5658 West Point Village Seaplane Base
+5659 Minchumina Airport
+5660 Kullu Manali
+5661 El Chalten
+5662 Chenega Bay Airport
+5663 Chisana Airport
+5664 Tok Junction Airport
+5665 Ishurdi
+5666 Klawock Seaplane Base
+5667 Rourkela
+5668 Dibrugarh
+5669 Sierra Grande
+5670 Lilabari
+5671 Tatitlek Airport
+5672 Kailashahar
+5673 Jamshedpur
+5674 Ketchikan harbor Seaplane Base
+5675 Gaya
+5676 Dhanbad
+5677 Cooch Behar
+5678 Ingeniero Jacobacci
+5679 Gwalior
+5680 Tadoule Lake Airport
+5681 Balkhash Airport
+5682 Cuddapah
+5683 Council Airport
+5684 Icy Bay Airport
+5685 Bellary
+5686 Yakataga Airport
+5687 Nondalton Airport
+5688 Pedro Bay Airport
+5689 ZAPALA
+5690 Satna
+5691 Caleta Olivia
+5692 Rincon de los Sauces
+5693 Pantnagar
+5694 Pathankot
+5695 Colonia Sarmiento
+5696 Rio Turbio
+5697 Kota
+5698 Puerto Natales
+5699 Jaisalmer
+5700 Rimouski Airport
+5701 Lac Brochet Airport
+5702 Turkmenbashi
+5703 Rosita Airport
+5704 Big Creek Airport
+5705 Bilaspur
+5706 Akola
+5707 Placencia Airport
+5708 Kurumoch
+5709 Sartaneja Airport
+5710 Corn Island Airport
+5711 Bonanza Airport
+5712 Siuna Airport
+5713 Brussels Gare du Midi
+5714 Waspam Airport
+5715 Migalovo
+5716 Carrillo Airport
+5717 Bryansk
+5718 Fussen
+5719 Al Udeid AB
+5720 Constanza Airport
+5721 Negril Aerodrome
+5722 Daman
+5723 Kandla
+5724 South Indian Lake Airport
+5725 Red Sucker Lake Airport
+5726 Brochet Airport
+5727 Little Grand Rapids Airport
+5728 Cross Lake - Charlie Sinclair Memorial Airport
+5729 Kirkuk AB
+5730 China Bay
+5731 Kankesanturai
+5732 Amparai
+5733 Colombo Ratmalana
+5734 Bonnyville Airport
+5735 Palo Verde Airport
+5736 Sholapur
+5737 Qualicum Beach Airport
+5738 Fort St. James - Perison Airport
+5739 Boundary Bay Airport
+5740 Nasik Road
+5741 Sechelt Aerodrome
+5742 Keshod
+5743 Kolhapur
